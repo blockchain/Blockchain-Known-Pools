@@ -72,6 +72,10 @@
                         "name" : "Bitparking",
                         "link" : "http://mmpool.bitparking.com/"
                 },
+                "mmpool" : {
+                        "name" : "mmpool",
+                        "link" : "http://mmpool.org/pool"
+                },
                 "by polmine.pl" : {
                         "name" : "Polmine",
                         "link" : "http://polmine.pl/"
