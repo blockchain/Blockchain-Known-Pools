@@ -79,8 +79,11 @@
                 "discusfish" : {
                         "name" : "Discus Fish",
                         "link" : "http://www.f2pool.com/"
+                },
+                "KnCMiner" : {
+                        "name" : "KnCMiner",
+                        "link" : "https://portal.kncminer.com/pool"
                 }
-
         },
         "payout_addresses" : {
                 "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC" : {
