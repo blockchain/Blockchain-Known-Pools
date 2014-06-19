@@ -60,10 +60,6 @@
                         "name" : "GHash.IO",
                         "link" : "https://ghash.io/"
                 },
-                "ghash.io" : {
-                        "name" : "GHash.IO",
-                        "link" : "https://ghash.io/"
-                },
                 "st mining corp" : {
                         "name" : "ST Mining Corp",
                         "link" : "https://bitcointalk.org/index.php?topic=77000.msg3207708#msg3207708"
@@ -80,6 +76,11 @@
                         "name" : "Discus Fish",
                         "link" : "http://www.f2pool.com/"
                 }
+                "KnCminer" : {
+                        "name" : "KnCMiner",
+                        "link" : "http://kncminer.com/"
+                }
+
 
         },
         "payout_addresses" : {
@@ -89,7 +90,11 @@
                 },
                 "1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY" : {
                     "name" : "Discus Fish",
-                    "link" : "http://www.f2pool.com/"     
+                    "link" : "http://www.f2pool.com/"
+                },
+                "1ALA5v7h49QT7WYLcRsxcXqXUqEqaWmkvw" : {
+                    "name" : "Cloudhashing",
+                    "link" : "http://www.cloudhashing.com/"     
                 }
         }
  }
