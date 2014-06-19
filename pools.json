@@ -1,8 +1,16 @@
  {
         "coinbase_tags" : {
+                "Mined By 175btc.com" : {
+                        "name" : "175btc",
+                        "link" : "http://www.175btc.com/"
+                },
                 "ASICMiner" : {
                         "name" : "ASICMiner",
                         "link" : "http://www.asicminer.co"
+                },
+                "BitMinter" : {
+                        "name" : "BitMinter",
+                        "link" : "https://bitminter.com/"
                 },
                 "btcserv" : {
                         "name" : "BTCServ",
@@ -17,6 +25,10 @@
                         "link" : "http://www.btcguild.com/"
                 },
                 "Slush" : {
+                        "name" : "Slush",
+                        "link" : "http://mining.bitcoin.cz/"
+                },
+                "slush" : {
                         "name" : "Slush",
                         "link" : "http://mining.bitcoin.cz/"
                 },
@@ -79,8 +91,35 @@
                 "discusfish" : {
                         "name" : "Discus Fish",
                         "link" : "http://www.f2pool.com/"
+                },
+                "七彩神仙鱼" : {
+                        "name" : "Discus Fish",
+                        "link" : "http://www.f2pool.com/"
+                },
+                "七彩神仙鱼" : {
+                        "name" : "Discus Fish",
+                        "link" : "http://www.f2pool.com/"
+                },
+                "HHTT" : {
+                        "name" : "HHTT",
+                        "link" : "http://hhtt.1209k.com/"
+                },
+                "megabigpower.com" : {
+                        "name" : "Megabigpower",
+                        "link" : "http://megabigpower.com/"
+                },
+                "/mtred/" : {
+                        "name" : "Mt Red",
+                        "link" : "https://mtred.com/"
+                },
+                "nmcbit.com" : {
+                        "name" : "NMCbit",
+                        "link" : "http://nmcbit.com/"
+                },
+				"yourbtc.net" : {
+                        "name" : "Yourbtc.net",
+                        "link" : "http://yourbtc.net/"
                 }
-
         },
         "payout_addresses" : {
                 "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC" : {
