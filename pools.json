@@ -79,6 +79,10 @@
                 "discusfish" : {
                         "name" : "Discus Fish",
                         "link" : "http://www.f2pool.com/"
+                },
+                "Bitalo" : {
+                        "name" : "Bitalo",
+                        "link" : "https://bitalo.com/mining"
                 }
 
         },
@@ -90,6 +94,10 @@
                 "1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY" : {
                     "name" : "Discus Fish",
                     "link" : "http://www.f2pool.com/"     
+                },
+                "1HTejfsPZQGi3afCMEZTn2xdmoNzp13n3F" : {
+                    "name" : "Bitalo",
+                    "link" : "https://bitalo.com/mining"     
                 }
         }
  }
