@@ -1,140 +1,180 @@
  {
-        "coinbase_tags" : {
-                "ASICMiner" : {
-                        "name" : "ASICMiner",
-                        "link" : "http://www.asicminer.co"
-                },
-                "btcserv" : {
-                        "name" : "BTCServ",
-                        "link" : "http://btcserv.net/"
-                },
-                "simplecoin" : {
-                        "name" : "simplecoin.us",
-                        "link" : "http://simplecoin.us/"
-                },
-                "BTC Guild" : {
-                        "name" : "BTC Guild",
-                        "link" : "http://www.btcguild.com/"
-                },
-                "Slush" : {
-                        "name" : "Slush",
-                        "link" : "http://mining.bitcoin.cz/"
-                },
-                "Eligius" : {
-                        "name" : "Eligius",
-                        "link" : "http://eligius.st/"
-                },
-                "BitMinter" : {
-                        "name" : "BitMinter",
-                        "link" : "http://bitminter.com/"
-                },
-                "ozco.in" : {
-                        "name" : "OzCoin",
-                        "link" : "http://ozcoin.net/"
-                },
-                "ozcoin" : {
-                        "name" : "OzCoin",
-                        "link" : "http://ozcoin.net/"
-                },
-                "EMC" : {
-                        "name" : "EclipseMC",
-                        "link" : "https://eclipsemc.com/"
-                },
-                "MaxBTC" : {
-                        "name" : "MaxBTC",
-                        "link" : "http://maxbtc.com/"
-                },
-                "triplemining" : {
-                        "name" : "TripleMining",
-                        "link" : "https://www.triplemining.com/"
-                },
-                "CoinLab" : {
-                        "name" : "CoinLab",
-                        "link" : "http://coinlab.com/"
-                },
-                "50BTC" : {
-                        "name" : "50BTC",
-                        "link" : "https://www.50btc.com/"
-                },
-                "ghash.io" : {
-                        "name" : "GHash.IO",
-                        "link" : "https://ghash.io/"
-                },
-                "st mining corp" : {
-                        "name" : "ST Mining Corp",
-                        "link" : "https://bitcointalk.org/index.php?topic=77000.msg3207708#msg3207708"
-                },
-                "bitparking" : {
-                        "name" : "Bitparking",
-                        "link" : "http://mmpool.bitparking.com/"
-                },
-                "mmpool" : {
-                        "name" : "mmpool",
-                        "link" : "http://mmpool.org/pool"
-                },
-                "by polmine.pl" : {
-                        "name" : "Polmine",
-                        "link" : "http://polmine.pl/"
-                },
-                "discusfish" : {
-                        "name" : "Discus Fish",
-                        "link" : "http://www.f2pool.com/"
-                },
-                "KnCMiner" : {
-                        "name" : "KnCMiner",
-                        "link" : "https://portal.kncminer.com/pool"
-                },
-                "Bitalo" : {
-                        "name" : "Bitalo",
-                        "link" : "https://bitalo.com/mining"
-                }
-        },
-        "payout_addresses" : {
-                "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC" : {
-                    "name" : "GHash.IO",
-                    "link" : "https://ghash.io/"     
-                },
-                "1AqTMY7kmHZxBuLUR5wJjPFUvqGs23sesr" : {
+    "coinbase_tags" : {
+            "Mined By 175btc.com" : {
+                    "name" : "175btc",
+                    "link" : "http://www.175btc.com/"
+            },
+            "ASICMiner" : {
+                    "name" : "ASICMiner",
+                    "link" : "http://www.asicminer.co"
+            },
+            "BitMinter" : {
+                    "name" : "BitMinter",
+                    "link" : "https://bitminter.com/"
+            },
+            "btcserv" : {
+                    "name" : "BTCServ",
+                    "link" : "http://btcserv.net/"
+            },
+            "simplecoin" : {
+                    "name" : "simplecoin.us",
+                    "link" : "http://simplecoin.us/"
+            },
+            "BTC Guild" : {
+                    "name" : "BTC Guild",
+                    "link" : "http://www.btcguild.com/"
+            },
+            "Slush" : {
                     "name" : "Slush",
                     "link" : "http://mining.bitcoin.cz/"
-                },
-                "1MimPd6LrPKGftPRHWdfk8S3KYBfN4ELnD" : {
-                    "name" : "Unknown with 1MimPd6 Address",
-                    "link" : ""     
-                },
-                "1AcAj9p6zJn4xLXdvmdiuPCtY7YkBPTAJo" : {
-                    "name" : "Unknown with 1AcAj9p Address",
-                    "link" : ""     
-                },
-                "1BX5YoLwvqzvVwSrdD4dC32vbouHQn2tuF" : {
-                    "name" : "Unknown with 1BX5YoL Address",
-                    "link" : ""     
-                },
-                "19PkHafEN18mquJ9ChwZt5YEFoCdPP5vYB" : {
+            },
+            "slush" : {
+                    "name" : "Slush",
+                    "link" : "http://mining.bitcoin.cz/"
+            },
+            "Eligius" : {
+                    "name" : "Eligius",
+                    "link" : "http://eligius.st/"
+            },
+            "BitMinter" : {
                     "name" : "BitMinter",
-                    "link" : "http://bitminter.com/"  
-                },
-                "15xiShqUqerfjFdyfgBH1K7Gwp6cbYmsTW " : {
+                    "link" : "http://bitminter.com/"
+            },
+            "ozco.in" : {
+                    "name" : "OzCoin",
+                    "link" : "http://ozcoin.net/"
+            },
+            "ozcoin" : {
+                    "name" : "OzCoin",
+                    "link" : "http://ozcoin.net/"
+            },
+            "EMC" : {
                     "name" : "EclipseMC",
-                    "link" : "https://eclipsemc.com/"     
-                },
-                "1BwZeHJo7b7M2op7VDfYnsmcpXsUYEcVHm" : {
-                    "name" : "Unknown with 1BwZeHJ Address",
-                    "link" : ""     
-                },
-                "1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY" : {
+                    "link" : "https://eclipsemc.com/"
+            },
+            "MaxBTC" : {
+                    "name" : "MaxBTC",
+                    "link" : "http://maxbtc.com/"
+            },
+            "triplemining" : {
+                    "name" : "TripleMining",
+                    "link" : "https://www.triplemining.com/"
+            },
+            "CoinLab" : {
+                    "name" : "CoinLab",
+                    "link" : "http://coinlab.com/"
+            },
+            "50BTC" : {
+                    "name" : "50BTC",
+                    "link" : "https://www.50btc.com/"
+            },
+            "ghash.io" : {
+                    "name" : "GHash.IO",
+                    "link" : "https://ghash.io/"
+            },
+            "st mining corp" : {
+                    "name" : "ST Mining Corp",
+                    "link" : "https://bitcointalk.org/index.php?topic=77000.msg3207708#msg3207708"
+            },
+            "bitparking" : {
+                    "name" : "Bitparking",
+                    "link" : "http://mmpool.bitparking.com/"
+            },
+            "mmpool" : {
+                    "name" : "mmpool",
+                    "link" : "http://mmpool.org/pool"
+            },
+            "by polmine.pl" : {
+                    "name" : "Polmine",
+                    "link" : "http://polmine.pl/"
+            },
+            "discusfish" : {
                     "name" : "Discus Fish",
-                    "link" : "http://www.f2pool.com/"     
-                },
-                "1ALA5v7h49QT7WYLcRsxcXqXUqEqaWmkvw" : {
-                    "name" : "CloudHashing",
-                    "link" : "https://cloudhashing.com/"
-                },
-                "1HTejfsPZQGi3afCMEZTn2xdmoNzp13n3F" : {
+                    "link" : "http://www.f2pool.com/"
+            },
+            "KnCMiner" : {
+                    "name" : "KnCMiner",
+                    "link" : "https://portal.kncminer.com/pool"
+            },
+            "Bitalo" : {
                     "name" : "Bitalo",
-                    "link" : "https://bitalo.com/mining" 
-                }     
-        }
+                    "link" : "https://bitalo.com/mining"
+            },
+            "七彩神仙鱼" : {
+                    "name" : "Discus Fish",
+                    "link" : "http://www.f2pool.com/"
+            },
+            "七彩神仙鱼" : {
+                    "name" : "Discus Fish",
+                    "link" : "http://www.f2pool.com/"
+            },
+            "HHTT" : {
+                    "name" : "HHTT",
+                    "link" : "http://hhtt.1209k.com/"
+            },
+            "megabigpower.com" : {
+                    "name" : "Megabigpower",
+                    "link" : "http://megabigpower.com/"
+            },
+            "/mtred/" : {
+                    "name" : "Mt Red",
+                    "link" : "https://mtred.com/"
+            },
+            "nmcbit.com" : {
+                    "name" : "NMCbit",
+                    "link" : "http://nmcbit.com/"
+            },
+			"yourbtc.net" : {
+                    "name" : "Yourbtc.net",
+                    "link" : "http://yourbtc.net/"
+            }
+    },
+    "payout_addresses" : {
+            "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC" : {
+                "name" : "GHash.IO",
+                "link" : "https://ghash.io/"     
+            },
+            "1AqTMY7kmHZxBuLUR5wJjPFUvqGs23sesr" : {
+                "name" : "Slush",
+                "link" : "http://mining.bitcoin.cz/"
+            },
+            "1MimPd6LrPKGftPRHWdfk8S3KYBfN4ELnD" : {
+                "name" : "Unknown with 1MimPd6 Address",
+                "link" : ""     
+            },
+            "1AcAj9p6zJn4xLXdvmdiuPCtY7YkBPTAJo" : {
+                "name" : "Unknown with 1AcAj9p Address",
+                "link" : ""     
+            },
+            "1BX5YoLwvqzvVwSrdD4dC32vbouHQn2tuF" : {
+                "name" : "Unknown with 1BX5YoL Address",
+                "link" : ""     
+            },
+            "19PkHafEN18mquJ9ChwZt5YEFoCdPP5vYB" : {
+                "name" : "BitMinter",
+                "link" : "http://bitminter.com/"  
+            },
+            "15xiShqUqerfjFdyfgBH1K7Gwp6cbYmsTW " : {
+                "name" : "EclipseMC",
+                "link" : "https://eclipsemc.com/"     
+            },
+            "1BwZeHJo7b7M2op7VDfYnsmcpXsUYEcVHm" : {
+                "name" : "Unknown with 1BwZeHJ Address",
+                "link" : ""     
+            },
+            "1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY" : {
+                "name" : "Discus Fish",
+                "link" : "http://www.f2pool.com/"     
+            },
+            "1ALA5v7h49QT7WYLcRsxcXqXUqEqaWmkvw" : {
+                "name" : "CloudHashing",
+                "link" : "https://cloudhashing.com/"
+            },
+            "1HTejfsPZQGi3afCMEZTn2xdmoNzp13n3F" : {
+                "name" : "Bitalo",
+                "link" : "https://bitalo.com/mining" 
+            }     
+    }
  }
 
 
