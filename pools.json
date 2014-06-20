@@ -79,13 +79,44 @@
                 "discusfish" : {
                         "name" : "Discus Fish",
                         "link" : "http://www.f2pool.com/"
+                },
+                "KnCMiner" : {
+                        "name" : "KnCMiner",
+                        "link" : "https://portal.kncminer.com/pool"
                 }
-
         },
         "payout_addresses" : {
                 "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC" : {
                     "name" : "GHash.IO",
                     "link" : "https://ghash.io/"     
+                },
+                "1AqTMY7kmHZxBuLUR5wJjPFUvqGs23sesr" : {
+                    "name" : "Slush",
+                    "link" : "http://mining.bitcoin.cz/"
+                },
+                "1MimPd6LrPKGftPRHWdfk8S3KYBfN4ELnD" : {
+                    "name" : "Unknown with 1MimPd6 Address",
+                    "link" : ""     
+                },
+                "1AcAj9p6zJn4xLXdvmdiuPCtY7YkBPTAJo" : {
+                    "name" : "Unknown with 1AcAj9p Address",
+                    "link" : ""     
+                },
+                "1BX5YoLwvqzvVwSrdD4dC32vbouHQn2tuF" : {
+                    "name" : "Unknown with 1BX5YoL Address",
+                    "link" : ""     
+                },
+                "19PkHafEN18mquJ9ChwZt5YEFoCdPP5vYB" : {
+                    "name" : "BitMinter",
+                    "link" : "http://bitminter.com/"  
+                },
+                "15xiShqUqerfjFdyfgBH1K7Gwp6cbYmsTW " : {
+                    "name" : "EclipseMC",
+                    "link" : "https://eclipsemc.com/"     
+                },
+                "1BwZeHJo7b7M2op7VDfYnsmcpXsUYEcVHm" : {
+                    "name" : "Unknown with 1BwZeHJ Address",
+                    "link" : ""     
                 },
                 "1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY" : {
                     "name" : "Discus Fish",
