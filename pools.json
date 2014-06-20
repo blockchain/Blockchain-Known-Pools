@@ -127,6 +127,10 @@
 			"yourbtc.net" : {
                     "name" : "Yourbtc.net",
                     "link" : "http://yourbtc.net/"
+            },
+            "Give-Me-Coins" : {
+                "name" : "Give Me Coins",
+                "link" : "http://give-me-coins.com/" 
             }
     },
     "payout_addresses" : {
