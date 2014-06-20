@@ -83,6 +83,10 @@
                 "KnCMiner" : {
                         "name" : "KnCMiner",
                         "link" : "https://portal.kncminer.com/pool"
+                },
+                "Bitalo" : {
+                        "name" : "Bitalo",
+                        "link" : "https://bitalo.com/mining"
                 }
         },
         "payout_addresses" : {
@@ -125,8 +129,11 @@
                 "1ALA5v7h49QT7WYLcRsxcXqXUqEqaWmkvw" : {
                     "name" : "CloudHashing",
                     "link" : "https://cloudhashing.com/"
-                }
-                
+                },
+                "1HTejfsPZQGi3afCMEZTn2xdmoNzp13n3F" : {
+                    "name" : "Bitalo",
+                    "link" : "https://bitalo.com/mining" 
+                }     
         }
  }
 
