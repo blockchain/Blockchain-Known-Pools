@@ -135,6 +135,10 @@
             "Give-Me-Coins" : {
                 "name" : "Give Me Coins",
                 "link" : "http://give-me-coins.com/" 
+            },
+            "Mined by AntPool" : {
+                "name" : "AntPool",
+                "link" : "http://bitmaintech.com/" 
             }
     },
     "payout_addresses" : {
