@@ -128,14 +128,18 @@
                     "name" : "NMCbit",
                     "link" : "http://nmcbit.com/"
             },
-			"yourbtc.net" : {
+	    "yourbtc.net" : {
                     "name" : "Yourbtc.net",
                     "link" : "http://yourbtc.net/"
             },
             "Give-Me-Coins" : {
                 "name" : "Give Me Coins",
                 "link" : "http://give-me-coins.com/" 
-            }
+            },
+    	    "Mined by MultiCoin.co" : {
+    	    	"name" : "MultiCoin.co",
+    	    	"link" : "http://multicoin.co
+    	    }
     },
     "payout_addresses" : {
             "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC" : {
@@ -181,7 +185,11 @@
             "1HTejfsPZQGi3afCMEZTn2xdmoNzp13n3F" : {
                 "name" : "Bitalo",
                 "link" : "https://bitalo.com/mining" 
-            }     
+            },
+            "15G3L5QNospssWYCsLXb3YcPkQ9dpMJJ2g" : {
+            	"name" : "MultiCoin.co",
+            	"link" : "http://multicoin.co/"
+            }
     }
  }
 
