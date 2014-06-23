@@ -139,6 +139,10 @@
             "Mined by AntPool" : {
                 "name" : "AntPool",
                 "link" : "http://bitmaintech.com/" 
+            },
+            "Mined by MultiCoin.co" : {
+                "name" : "MultiCoin.co",
+                "link" : "http://multicoin.co"
             }
     },
     "payout_addresses" : {
