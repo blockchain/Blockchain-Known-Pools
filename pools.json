@@ -143,6 +143,10 @@
             "Mined by MultiCoin.co" : {
                 "name" : "MultiCoin.co",
                 "link" : "http://multicoin.co"
+            },
+            "bcpool.io" : {
+                "name" : "bcpool.io",
+                "link" : "https://bcpool.io/"
             }
     },
     "payout_addresses" : {
