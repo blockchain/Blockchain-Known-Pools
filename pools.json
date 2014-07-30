@@ -128,7 +128,7 @@
                     "name" : "NMCbit",
                     "link" : "http://nmcbit.com/"
             },
-			"yourbtc.net" : {
+            "yourbtc.net" : {
                     "name" : "Yourbtc.net",
                     "link" : "http://yourbtc.net/"
             },
@@ -147,6 +147,10 @@
             "bcpool.io" : {
                 "name" : "bcpool.io",
                 "link" : "https://bcpool.io/"
+            }
+            "cointerra" : {
+                "name" : "Cointerra"
+                "link" : "http://cointerra.com/"
             }
     },
     "payout_addresses" : {
@@ -167,8 +171,8 @@
                 "link" : ""     
             },
             "1BX5YoLwvqzvVwSrdD4dC32vbouHQn2tuF" : {
-                "name" : "Unknown with 1BX5YoL Address",
-                "link" : ""     
+                "name" : "Cointerra",
+                "link" : "http://cointerra.com/"     
             },
             "19PkHafEN18mquJ9ChwZt5YEFoCdPP5vYB" : {
                 "name" : "BitMinter",
