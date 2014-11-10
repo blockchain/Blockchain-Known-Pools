@@ -149,8 +149,12 @@
                 "link" : "https://bcpool.io/"
             },
             "cointerra" : {
-                "name" : "Cointerra"
+                "name" : "Cointerra",
                 "link" : "http://cointerra.com/"
+            },
+            "ckpool/Kano" : {
+                "name" : "Kano CKPool",
+                "link" : "https://www.kano.is/"
             }
     },
     "payout_addresses" : {
