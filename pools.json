@@ -155,6 +155,10 @@
             "ckpool/Kano" : {
                 "name" : "Kano CKPool",
                 "link" : "https://www.kano.is/"
+            },
+            "bitcoinaffiliatenetwork.com" : {
+            	"name" : "Bitcoin Affiliate Network",
+                "link" : "https://mining.bitcoinaffiliatenetwork.com/"
             }
     },
     "payout_addresses" : {
