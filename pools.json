@@ -159,6 +159,10 @@
             "bitcoinaffiliatenetwork.com" : {
             	"name" : "Bitcoin Affiliate Network",
                 "link" : "https://mining.bitcoinaffiliatenetwork.com/"
+            },
+            "BTCChina Pool" : {
+            	"name" : "BTCChina Pool",
+                "link" : "https://pool.btcchina.com/"
             }
     },
     "payout_addresses" : {
