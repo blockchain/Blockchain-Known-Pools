@@ -155,6 +155,10 @@
         "BTCChina Pool" : {
             "name" : "BTCChina Pool",
             "link" : "https://pool.btcchina.com/"
+        },
+        "BW Pool" : {
+            "name" : "BW.COM",
+            "link" : "https://bw.com/"
         }
     },
     "payout_addresses" : {
@@ -205,6 +209,10 @@
         "1HTejfsPZQGi3afCMEZTn2xdmoNzp13n3F" : {
             "name" : "Bitalo",
             "link" : "https://bitalo.com/mining"
+        },
+        "1JLRXD8rjRgQtTS9MvfQALfHgGWau9L9ky" : {
+            "name" : "BW.COM",
+            "link" : "https://www.bw.com/"
         }
     }
 }
