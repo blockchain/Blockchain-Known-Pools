@@ -148,6 +148,10 @@
             "name" : "Kano CKPool",
             "link" : "https://www.kano.is/"
         },
+        "BitClub Network" : {
+            "name" : "BitClub Network",
+            "link" : "https://bitclubnetwork.com/"
+        },
         "bitcoinaffiliatenetwork.com" : {
             "name" : "Bitcoin Affiliate Network",
             "link" : "https://mining.bitcoinaffiliatenetwork.com/"
@@ -221,6 +225,10 @@
         "18zRehBcA2YkYvsC7dfQiFJNyjmWvXsvon" : {
             "name" : "Bitsolo",
             "link" : "http://bitsolo.net/"
+        },
+        "155fzsEBHy9Ri2bMQ8uuuR3tv1YzcDywd4" : {
+            "name" : "BitClub Network",
+            "link" : "https://bitclubnetwork.com/"
         }
     }
 }
