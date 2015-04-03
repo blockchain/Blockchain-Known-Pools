@@ -148,6 +148,10 @@
             "name" : "Kano CKPool",
             "link" : "https://kano.is/"
         },
+        "/solo.ckpool.org/" : {
+            "name" : "Solo CKPool",
+            "link" : "http://solo.ckpool.org/"
+        },
         "/BitClub Network/" : {
             "name" : "BitClub Network",
             "link" : "https://bitclubnetwork.com/"
