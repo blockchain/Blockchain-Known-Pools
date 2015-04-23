@@ -1,32 +1,12 @@
 {
     "coinbase_tags" : {
-        "Mined By 175btc.com" : {
-            "name" : "175btc",
-            "link" : "http://www.175btc.com/"
-        },
-        "ASICMiner" : {
-            "name" : "ASICMiner",
-            "link" : "http://www.asicminer.co"
-        },
         "BitMinter" : {
             "name" : "BitMinter",
             "link" : "https://bitminter.com/"
         },
-        "btcserv" : {
-            "name" : "BTCServ",
-            "link" : "http://btcserv.net/"
-        },
-        "simplecoin" : {
-            "name" : "simplecoin.us",
-            "link" : "http://simplecoin.us/"
-        },
         "BTC Guild" : {
             "name" : "BTC Guild",
             "link" : "http://www.btcguild.com/"
-        },
-        "Slush" : {
-            "name" : "Slush",
-            "link" : "http://mining.bitcoin.cz/"
         },
         "slush" : {
             "name" : "Slush",
@@ -36,14 +16,6 @@
             "name" : "Eligius",
             "link" : "http://eligius.st/"
         },
-        "BitMinter" : {
-            "name" : "BitMinter",
-            "link" : "http://bitminter.com/"
-        },
-        "ozco.in" : {
-            "name" : "OzCoin",
-            "link" : "http://ozcoin.net/"
-        },
         "ozcoin" : {
             "name" : "OzCoin",
             "link" : "http://ozcoin.net/"
@@ -52,37 +24,13 @@
             "name" : "EclipseMC",
             "link" : "https://eclipsemc.com/"
         },
-        "MaxBTC" : {
-            "name" : "MaxBTC",
-            "link" : "http://maxbtc.com/"
-        },
-        "triplemining" : {
-            "name" : "TripleMining",
-            "link" : "https://www.triplemining.com/"
-        },
         "Triplemining.com" : {
             "name" : "TripleMining",
             "link" : "https://www.triplemining.com/"
         },
-        "CoinLab" : {
-            "name" : "CoinLab",
-            "link" : "http://coinlab.com/"
-        },
         "50BTC" : {
             "name" : "50BTC",
             "link" : "https://www.50btc.com/"
-        },
-        "ghash.io" : {
-            "name" : "GHash.IO",
-            "link" : "https://ghash.io/"
-        },
-        "st mining corp" : {
-            "name" : "ST Mining Corp",
-            "link" : "https://bitcointalk.org/index.php?topic=77000.msg3207708#msg3207708"
-        },
-        "bitparking" : {
-            "name" : "Bitparking",
-            "link" : "http://mmpool.bitparking.com/"
         },
         "mmpool" : {
             "name" : "mmpool",
@@ -96,53 +44,21 @@
             "name" : "KnCMiner",
             "link" : "https://portal.kncminer.com/pool"
         },
-        "Bitalo" : {
-            "name" : "Bitalo",
-            "link" : "https://bitalo.com/mining"
-        },
         "七彩神仙鱼" : {
             "name" : "F2Pool",
             "link" : "https://www.f2pool.com/"
-        },
-        "HHTT" : {
-            "name" : "HHTT",
-            "link" : "http://hhtt.1209k.com/"
         },
         "megabigpower.com" : {
             "name" : "MegaBigPower",
             "link" : "http://megabigpower.com/"
         },
-        "/mtred/" : {
-            "name" : "Mt Red",
-            "link" : "https://mtred.com/"
-        },
-        "nmcbit.com" : {
-            "name" : "NMCbit",
-            "link" : "http://nmcbit.com/"
-        },
-        "yourbtc.net" : {
-            "name" : "Yourbtc.net",
-            "link" : "http://yourbtc.net/"
-        },
-        "Give-Me-Coins" : {
-            "name" : "Give Me Coins",
-            "link" : "http://give-me-coins.com/"
-        },
         "Mined by AntPool" : {
             "name" : "AntPool",
             "link" : "http://bitmaintech.com/"
         },
-        "Mined by MultiCoin.co" : {
-            "name" : "MultiCoin.co",
-            "link" : "http://multicoin.co"
-        },
         "bcpool.io" : {
             "name" : "bcpool.io",
             "link" : "https://bcpool.io/"
-        },
-        "cointerra" : {
-            "name" : "Cointerra",
-            "link" : "http://cointerra.com/"
         },
         "/Kano" : {
             "name" : "Kano CKPool",
@@ -167,10 +83,6 @@
         "BW Pool" : {
             "name" : "BW.COM",
             "link" : "https://bw.com/"
-        },
-        "Bitsolo Pool" : {
-            "name" : "Bitsolo",
-            "link" : "http://bitsolo.net/"
         }
     },
     "payout_addresses" : {
@@ -198,10 +110,6 @@
             "name" : "BitMinter",
             "link" : "http://bitminter.com/"
         },
-        "15xiShqUqerfjFdyfgBH1K7Gwp6cbYmsTW " : {
-            "name" : "EclipseMC",
-            "link" : "https://eclipsemc.com/"
-        },
         "1BwZeHJo7b7M2op7VDfYnsmcpXsUYEcVHm" : {
             "name" : "Unknown with 1BwZeHJ Address",
             "link" : ""
@@ -217,10 +125,6 @@
         "1K7znxRfkS8R1hcmyMvHDum1hAQreS4VQ4" : {
             "name" : "MegaBigPower",
             "link" : "https://megabigpower.com"
-        },
-        "1HTejfsPZQGi3afCMEZTn2xdmoNzp13n3F" : {
-            "name" : "Bitalo",
-            "link" : "https://bitalo.com/mining"
         },
         "1JLRXD8rjRgQtTS9MvfQALfHgGWau9L9ky" : {
             "name" : "BW.COM",
