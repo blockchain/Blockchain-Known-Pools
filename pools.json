@@ -171,6 +171,10 @@
         "Bitsolo Pool" : {
             "name" : "Bitsolo",
             "link" : "http://bitsolo.net/"
+        },
+        "/BitFury/" : {
+            "name" : "BitFury",
+            "link" : "http://31.146.211.3:81/"
         }
     },
     "payout_addresses" : {
