@@ -174,7 +174,7 @@
         },
         "/BitFury/" : {
             "name" : "BitFury",
-            "link" : "http://31.146.211.3:81/"
+            "link" : "http://bitfury.com/"
         }
     },
     "payout_addresses" : {
@@ -240,7 +240,7 @@
         },
         "14yfxkcpHnju97pecpM7fjuTkVdtbkcfE6" : {
             "name" : "BitFury",
-            "link" : "http://31.146.211.3:81/"
+            "link" : "http://bitfury.com/"
         }
     }
 }
