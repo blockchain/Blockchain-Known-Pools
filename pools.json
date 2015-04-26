@@ -173,7 +173,7 @@
             "link" : "http://bitsolo.net/"
         },
         "/agentD/" : {
-            "name" : "db.high.re",
+            "name" : "digitalBTC",
             "link" : "http://db.high.re:8080/"
         }
     },
@@ -239,7 +239,7 @@
             "link" : "https://bitclubnetwork.com/"
         },
         "1MimPd6LrPKGftPRHWdfk8S3KYBfN4ELnD" : {
-            "name" : "db.high.re",
+            "name" : "digitalBTC",
             "link" : "http://db.high.re:8080/"
         }
     }
