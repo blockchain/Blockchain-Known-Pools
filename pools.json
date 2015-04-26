@@ -237,6 +237,10 @@
         "155fzsEBHy9Ri2bMQ8uuuR3tv1YzcDywd4" : {
             "name" : "BitClub Network",
             "link" : "https://bitclubnetwork.com/"
+        },
+        "14yfxkcpHnju97pecpM7fjuTkVdtbkcfE6" : {
+            "name" : "BitFury",
+            "link" : "http://31.146.211.3:81/"
         }
     }
 }
