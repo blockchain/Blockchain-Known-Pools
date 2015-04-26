@@ -171,6 +171,10 @@
         "Bitsolo Pool" : {
             "name" : "Bitsolo",
             "link" : "http://bitsolo.net/"
+        },
+        "/pool34/" : {
+            "name" : "21E6",
+            "link" : "http://dev.pool34.com:8081/"
         }
     },
     "payout_addresses" : {
@@ -233,6 +237,10 @@
         "155fzsEBHy9Ri2bMQ8uuuR3tv1YzcDywd4" : {
             "name" : "BitClub Network",
             "link" : "https://bitclubnetwork.com/"
+        },
+        "15rQXUSBQRubShPpiJfDLxmwS8ze2RUm4z" : {
+            "name" : "21E6",
+            "link" : "http://dev.pool34.com:8081/"
         }
     }
 }
