@@ -171,6 +171,10 @@
         "Bitsolo Pool" : {
             "name" : "Bitsolo",
             "link" : "http://bitsolo.net/"
+        },
+        "/agentD/" : {
+            "name" : "digitalBTC",
+            "link" : "http://db.high.re:8080/"
         }
     },
     "payout_addresses" : {
@@ -233,6 +237,10 @@
         "155fzsEBHy9Ri2bMQ8uuuR3tv1YzcDywd4" : {
             "name" : "BitClub Network",
             "link" : "https://bitclubnetwork.com/"
+        },
+        "1MimPd6LrPKGftPRHWdfk8S3KYBfN4ELnD" : {
+            "name" : "digitalBTC",
+            "link" : "http://db.high.re:8080/"
         }
     }
 }
