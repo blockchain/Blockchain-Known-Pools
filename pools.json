@@ -175,6 +175,10 @@
         "/pool34/" : {
             "name" : "21 Inc.",
             "link" : "https://21.co/"
+        },
+        "/agentD/" : {
+            "name" : "digitalBTC",
+            "link" : "http://db.high.re:8080/"
         }
     },
     "payout_addresses" : {
@@ -207,8 +211,8 @@
             "link" : "https://eclipsemc.com/"
         },
         "1BwZeHJo7b7M2op7VDfYnsmcpXsUYEcVHm" : {
-            "name" : "Unknown with 1BwZeHJ Address",
-            "link" : ""
+            "name" : "BTC Nuggets",
+            "link" : "http://104.197.8.250/"
         },
         "1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY" : {
             "name" : "F2Pool",
@@ -241,6 +245,10 @@
         "15rQXUSBQRubShPpiJfDLxmwS8ze2RUm4z" : {
             "name" : "21 Inc.",
             "link" : "https://21.co/"
+        },
+        "1MimPd6LrPKGftPRHWdfk8S3KYBfN4ELnD" : {
+            "name" : "digitalBTC",
+            "link" : "http://db.high.re:8080/"
         }
     }
 }
