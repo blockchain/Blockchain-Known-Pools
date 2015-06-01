@@ -109,7 +109,7 @@
             "link" : "http://hhtt.1209k.com/"
         },
         "megabigpower.com" : {
-            "name" : "Megabigpower",
+            "name" : "MegaBigPower",
             "link" : "http://megabigpower.com/"
         },
         "/mtred/" : {
@@ -144,9 +144,17 @@
             "name" : "Cointerra",
             "link" : "http://cointerra.com/"
         },
-        "ckpool/Kano" : {
+        "/Kano" : {
             "name" : "Kano CKPool",
-            "link" : "https://www.kano.is/"
+            "link" : "https://kano.is/"
+        },
+        "/solo.ckpool.org/" : {
+            "name" : "Solo CKPool",
+            "link" : "http://solo.ckpool.org/"
+        },
+        "/BitClub Network/" : {
+            "name" : "BitClub Network",
+            "link" : "https://bitclubnetwork.com/"
         },
         "bitcoinaffiliatenetwork.com" : {
             "name" : "Bitcoin Affiliate Network",
@@ -155,6 +163,18 @@
         "BTCChina Pool" : {
             "name" : "BTCChina Pool",
             "link" : "https://pool.btcchina.com/"
+        },
+        "BW Pool" : {
+            "name" : "BW.COM",
+            "link" : "https://bw.com/"
+        },
+        "Bitsolo Pool" : {
+            "name" : "Bitsolo",
+            "link" : "http://bitsolo.net/"
+        },
+        "/agentD/" : {
+            "name" : "digitalBTC",
+            "link" : "http://db.high.re:8080/"
         }
     },
     "payout_addresses" : {
@@ -187,8 +207,8 @@
             "link" : "https://eclipsemc.com/"
         },
         "1BwZeHJo7b7M2op7VDfYnsmcpXsUYEcVHm" : {
-            "name" : "Unknown with 1BwZeHJ Address",
-            "link" : ""
+            "name" : "BTC Nuggets",
+            "link" : "http://104.197.8.250/"
         },
         "1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY" : {
             "name" : "F2Pool",
@@ -205,6 +225,22 @@
         "1HTejfsPZQGi3afCMEZTn2xdmoNzp13n3F" : {
             "name" : "Bitalo",
             "link" : "https://bitalo.com/mining"
+        },
+        "1JLRXD8rjRgQtTS9MvfQALfHgGWau9L9ky" : {
+            "name" : "BW.COM",
+            "link" : "https://www.bw.com/"
+        },
+        "18zRehBcA2YkYvsC7dfQiFJNyjmWvXsvon" : {
+            "name" : "Bitsolo",
+            "link" : "http://bitsolo.net/"
+        },
+        "155fzsEBHy9Ri2bMQ8uuuR3tv1YzcDywd4" : {
+            "name" : "BitClub Network",
+            "link" : "https://bitclubnetwork.com/"
+        },
+        "1MimPd6LrPKGftPRHWdfk8S3KYBfN4ELnD" : {
+            "name" : "digitalBTC",
+            "link" : "http://db.high.re:8080/"
         }
     }
 }
