@@ -309,6 +309,10 @@
         "152f1muMCNa7goXYhYAQC61hxEgGacmncB" : {
             "name" : "BTCChina Pool",
             "link" : "https://pool.btcchina.com/"
+        },
+        "1PmRrdp1YSkp1LxPyCfcmBHDEipG5X4eJB" : {
+            "name" : "BTC Pool Party",
+            "link" : "https://btcpoolparty.com/"
         }
     }
 }
