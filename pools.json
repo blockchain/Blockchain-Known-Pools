@@ -286,6 +286,18 @@
             "name" : "digitalBTC",
             "link" : "http://db.high.re:8080/"
         },
+        "1P4B6rx1js8TaEDXvZvtrkiEb9XrJgMQ19" : {
+            "name" : "Telco 214",
+            "link" : "http://66.194.38.250:8081/"
+        },
+        "1MoYfV4U61wqTPTHCyedzFmvf2o3uys2Ua" : {
+            "name" : "Telco 214",
+            "link" : "http://66.194.38.253:8081/"
+        },
+        "1GaKSh2t396nfSg5Ku2J3Yn1vfVsXrGuH5" : {
+            "name" : "Telco 214",
+            "link" : "http://66.194.38.254:8081/"
+        },
         "152f1muMCNa7goXYhYAQC61hxEgGacmncB" : {
             "name" : "BTCChina Pool",
             "link" : "https://pool.btcchina.com/"
