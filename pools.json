@@ -164,6 +164,10 @@
             "name" : "BTCChina Pool",
             "link" : "https://pool.btcchina.com/"
         },
+        "btcchina.com" : {
+            "name" : "BTCChina Pool",
+            "link" : "https://pool.btcchina.com/"
+        },
         "BW Pool" : {
             "name" : "BW.COM",
             "link" : "https://bw.com/"
@@ -241,6 +245,10 @@
         "1MimPd6LrPKGftPRHWdfk8S3KYBfN4ELnD" : {
             "name" : "digitalBTC",
             "link" : "http://db.high.re:8080/"
+        },
+        "152f1muMCNa7goXYhYAQC61hxEgGacmncB" : {
+            "name" : "BTCChina Pool",
+            "link" : "https://pool.btcchina.com/"
         }
     }
 }
