@@ -190,7 +190,7 @@
         },
         "/agentD/" : {
             "name" : "digitalBTC",
-            "link" : "http://db.high.re:8080/"
+            "link" : "http://digitalbtc.com/"
         }
     },
     "payout_addresses" : {
@@ -296,7 +296,7 @@
         },
         "1MimPd6LrPKGftPRHWdfk8S3KYBfN4ELnD" : {
             "name" : "digitalBTC",
-            "link" : "http://db.high.re:8080/"
+            "link" : "http://digitalbtc.com/"
         },
         "1P4B6rx1js8TaEDXvZvtrkiEb9XrJgMQ19" : {
             "name" : "Telco 214",
