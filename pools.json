@@ -164,6 +164,10 @@
             "name" : "BTCChina Pool",
             "link" : "https://pool.btcchina.com/"
         },
+        "btcchina.com" : {
+            "name" : "BTCChina Pool",
+            "link" : "https://pool.btcchina.com/"
+        },
         "BW Pool" : {
             "name" : "BW.COM",
             "link" : "https://bw.com/"
@@ -253,6 +257,10 @@
         "1GaKSh2t396nfSg5Ku2J3Yn1vfVsXrGuH5" : {
             "name" : "Telco 214",
             "link" : "http://66.194.38.254:8081/"
+        },
+        "152f1muMCNa7goXYhYAQC61hxEgGacmncB" : {
+            "name" : "BTCChina Pool",
+            "link" : "https://pool.btcchina.com/"
         }
     }
 }
