@@ -90,7 +90,11 @@
         },
         "by polmine.pl" : {
             "name" : "Polmine",
-            "link" : "http://polmine.pl/"
+            "link" : "https://polmine.pl/"
+        },
+        "bypmneU" : {
+            "name" : "Polmine",
+            "link" : "https://polmine.pl/"
         },
         "KnCMiner" : {
             "name" : "KnCMiner",
@@ -185,6 +189,30 @@
         "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC" : {
             "name" : "GHash.IO",
             "link" : "https://ghash.io/"
+        },
+        "17kkmDx8eSwj2JTTULb3HkJhCmexfysExz" : {
+            "name" : "Polmine",
+            "link" : "https://polmine.pl/"
+        },
+        "1AajKXkaq2DsnDmP8ZPTrE5gH1HFo1x3AU" : {
+            "name" : "Polmine",
+            "link" : "https://polmine.pl/"
+        },
+        "16cv7wyeG6RRqhvJpY21CnsjxuKj2gAoK2" : {
+            "name" : "Polmine",
+            "link" : "https://polmine.pl/"
+        },
+        "13vWXwzNF5Ef9SUXNTdr7de7MqiV4G1gnL" : {
+            "name" : "Polmine",
+            "link" : "https://polmine.pl/"
+        },
+        "1Nsvmnv8VcTMD643xMYAo35Aco3XA5YPpe" : {
+            "name" : "Polmine",
+            "link" : "https://polmine.pl/"
+        },
+        "1JrYhdhP2jCY6JwuVzdk9jUwc4pctcSes7" : {
+            "name" : "Polmine",
+            "link" : "https://polmine.pl/"
         },
         "1AqTMY7kmHZxBuLUR5wJjPFUvqGs23sesr" : {
             "name" : "Slush",
