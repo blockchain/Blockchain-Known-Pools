@@ -183,6 +183,9 @@
         "/BitFury/" : {
             "name" : "BitFury",
             "link" : "http://bitfury.com/"
+        "/pool34/" : {
+            "name" : "21 Inc.",
+            "link" : "https://21.co/"
         },
         "/agentD/" : {
             "name" : "digitalBTC",
@@ -281,6 +284,13 @@
         "14yfxkcpHnju97pecpM7fjuTkVdtbkcfE6" : {
             "name" : "BitFury",
             "link" : "http://bitfury.com/"
+        "15rQXUSBQRubShPpiJfDLxmwS8ze2RUm4z" : {
+            "name" : "21 Inc.",
+            "link" : "https://21.co/"
+        },
+        "1CdJi2xRTXJF6CEJqNHYyQDNEcM3X7fUhD" : {
+            "name" : "21 Inc.",
+            "link" : "https://21.co/"
         },
         "1MimPd6LrPKGftPRHWdfk8S3KYBfN4ELnD" : {
             "name" : "digitalBTC",
