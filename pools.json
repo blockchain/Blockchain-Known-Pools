@@ -136,6 +136,10 @@
             "name" : "AntPool",
             "link" : "http://bitmaintech.com/"
         },
+        "/AntPool/" : {
+            "name" : "AntPool",
+            "link" : "https://www.antpool.com/",
+        },
         "Mined by MultiCoin.co" : {
             "name" : "MultiCoin.co",
             "link" : "http://multicoin.co"
