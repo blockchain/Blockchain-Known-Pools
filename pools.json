@@ -160,6 +160,10 @@
             "name" : "Solo CKPool",
             "link" : "http://solo.ckpool.org/"
         },
+        "/NiceHashSolo" : {
+            "name" : "NiceHash Solo",
+            "link" : "https://solo.nicehash.com/"
+        },
         "/BitClub Network/" : {
             "name" : "BitClub Network",
             "link" : "https://bitclubnetwork.com/"
