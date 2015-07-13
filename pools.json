@@ -203,6 +203,10 @@
         "/八宝池 8baochi.com/" : {
             "name" : "8baochi",
             "link" : "http://8baochi.com/"
+        },
+        "myBTCcoin Pool" : {
+            "name" : "myBTCcoin Pool",
+            "link" : "http://mybtccoin.com/"
         }
     },
     "payout_addresses" : {
@@ -333,6 +337,10 @@
         "1Hk9gD8xMo2XBUhE73y5zXEM8xqgffTB5f" : {
             "name" : "8baochi",
             "link" : "http://8baochi.com/"
+        },
+        "151T7r1MhizzJV6dskzzUkUdr7V8JxV2Dx" : {
+            "name" : "myBTCcoin Pool",
+            "link" : "http://www.mybtccoin.com/"
         }
     }
 }
