@@ -200,6 +200,10 @@
             "name" : "digitalBTC",
             "link" : "http://digitalbtc.com/"
         },
+        "/八宝池 8baochi.com/" : {
+            "name" : "8baochi",
+            "link" : "http://8baochi.com/"
+        },
         "myBTCcoin Pool" : {
             "name" : "myBTCcoin Pool",
             "link" : "http://mybtccoin.com/"
@@ -329,6 +333,10 @@
         "1PmRrdp1YSkp1LxPyCfcmBHDEipG5X4eJB" : {
             "name" : "BTC Pool Party",
             "link" : "https://btcpoolparty.com/"
+        },
+        "1Hk9gD8xMo2XBUhE73y5zXEM8xqgffTB5f" : {
+            "name" : "8baochi",
+            "link" : "http://8baochi.com/"
         },
         "151T7r1MhizzJV6dskzzUkUdr7V8JxV2Dx" : {
             "name" : "myBTCcoin Pool",
