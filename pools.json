@@ -207,6 +207,10 @@
         "myBTCcoin Pool" : {
             "name" : "myBTCcoin Pool",
             "link" : "http://mybtccoin.com/"
+        },
+        "TBDice" : {
+            "name" : "TBDice",
+            "link" : "http://tbdice.org/"
         }
     },
     "payout_addresses" : {
@@ -341,6 +345,10 @@
         "151T7r1MhizzJV6dskzzUkUdr7V8JxV2Dx" : {
             "name" : "myBTCcoin Pool",
             "link" : "http://www.mybtccoin.com/"
+        },
+        "1BUiW44WuJ2jiJgXiyxJVFMN8bc1GLdXRk" : {
+            "name" : "TBDice",
+            "link" : "http://tbdice.org/"
         }
     }
 }
