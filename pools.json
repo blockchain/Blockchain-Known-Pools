@@ -172,17 +172,9 @@
             "name" : "Bitcoin Affiliate Network",
             "link" : "https://mining.bitcoinaffiliatenetwork.com/"
         },
-        "BTCChina Pool" : {
-            "name" : "BTCChina Pool",
-            "link" : "https://pool.btcchina.com/"
-        },
-        "btcchina.com" : {
-            "name" : "BTCChina Pool",
-            "link" : "https://pool.btcchina.com/"
-        },
-        "BTCChina.com" : {
-            "name" : "BTCChina Pool",
-            "link" : "https://pool.btcchina.com/"
+        "/BTCC/" : {
+            "name" : "BTCC Pool",
+            "link" : "https://pool.btcc.com/"
         },
         "BW Pool" : {
             "name" : "BW.COM",
@@ -347,8 +339,8 @@
             "link" : "http://www.telco214.com/"
         },
         "152f1muMCNa7goXYhYAQC61hxEgGacmncB" : {
-            "name" : "BTCChina Pool",
-            "link" : "https://pool.btcchina.com/"
+            "name" : "BTCC Pool",
+            "link" : "https://pool.btcc.com/"
         },
         "1PmRrdp1YSkp1LxPyCfcmBHDEipG5X4eJB" : {
             "name" : "BTC Pool Party",
