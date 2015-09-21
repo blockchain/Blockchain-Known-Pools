@@ -172,6 +172,18 @@
             "name" : "Bitcoin Affiliate Network",
             "link" : "https://mining.bitcoinaffiliatenetwork.com/"
         },
+        "BTCChina Pool" : {
+            "name" : "BTCC Pool",
+            "link" : "https://pool.btcc.com/"
+        },
+        "btcchina.com" : {
+            "name" : "BTCC Pool",
+            "link" : "https://pool.btcc.com/"
+        },
+        "BTCChina.com" : {
+            "name" : "BTCC Pool",
+            "link" : "https://pool.btcc.com/"
+        },
         "/BTCC/" : {
             "name" : "BTCC Pool",
             "link" : "https://pool.btcc.com/"
