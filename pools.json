@@ -4,6 +4,10 @@
             "name" : "175btc",
             "link" : "http://www.175btc.com/"
         },
+        "AXBT" : {
+            "name" : "A-XBT",
+            "link" : "http://www.a-xbt.com"
+        },
         "ASICMiner" : {
             "name" : "ASICMiner",
             "link" : "http://www.asicminer.co"
@@ -172,17 +176,9 @@
             "name" : "Bitcoin Affiliate Network",
             "link" : "https://mining.bitcoinaffiliatenetwork.com/"
         },
-        "BTCChina Pool" : {
-            "name" : "BTCChina Pool",
-            "link" : "https://pool.btcchina.com/"
-        },
-        "btcchina.com" : {
-            "name" : "BTCChina Pool",
-            "link" : "https://pool.btcchina.com/"
-        },
-        "BTCChina.com" : {
-            "name" : "BTCChina Pool",
-            "link" : "https://pool.btcchina.com/"
+        "/BTCC/" : {
+            "name" : "BTCC Pool",
+            "link" : "https://pool.btcc.com/"
         },
         "BW Pool" : {
             "name" : "BW.COM",
@@ -347,8 +343,8 @@
             "link" : "http://www.telco214.com/"
         },
         "152f1muMCNa7goXYhYAQC61hxEgGacmncB" : {
-            "name" : "BTCChina Pool",
-            "link" : "https://pool.btcchina.com/"
+            "name" : "BTCC Pool",
+            "link" : "https://pool.btcc.com/"
         },
         "1PmRrdp1YSkp1LxPyCfcmBHDEipG5X4eJB" : {
             "name" : "BTC Pool Party",
@@ -361,6 +357,10 @@
         "151T7r1MhizzJV6dskzzUkUdr7V8JxV2Dx" : {
             "name" : "myBTCcoin Pool",
             "link" : "http://www.mybtccoin.com/"
+        },
+        "1MFsp2txCPwMMBJjNNeKaduGGs8Wi1Ce7X" : {
+            "name" : "A-XBT",
+            "link" : "http://www.a-xbt.com/"
         },
         "1BUiW44WuJ2jiJgXiyxJVFMN8bc1GLdXRk" : {
             "name" : "TBDice",
