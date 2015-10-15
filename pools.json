@@ -24,14 +24,6 @@
             "name" : "BTC Guild",
             "link" : "http://www.btcguild.com/"
         },
-        "Slush" : {
-            "name" : "Slush",
-            "link" : "http://mining.bitcoin.cz/"
-        },
-        "slush" : {
-            "name" : "Slush",
-            "link" : "http://mining.bitcoin.cz/"
-        },
         "Eligius" : {
             "name" : "Eligius",
             "link" : "http://eligius.st/"
@@ -245,6 +237,10 @@
         "1JrYhdhP2jCY6JwuVzdk9jUwc4pctcSes7" : {
             "name" : "Polmine",
             "link" : "https://polmine.pl/"
+        },
+        "1CK6KHY6MHgYvmRQ4PAafKYDrg1ejbH1cE" : {
+            "name" : "Slush",
+            "link" : "http://mining.bitcoin.cz/"
         },
         "1AqTMY7kmHZxBuLUR5wJjPFUvqGs23sesr" : {
             "name" : "Slush",
