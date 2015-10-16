@@ -124,6 +124,10 @@
             "name" : "Give Me Coins",
             "link" : "http://give-me-coins.com/"
         },
+        "/slush/" : {
+           "name" : "Slush",
+           "link" : "http://mining.bitcoin.cz/"
+        },
         "Mined by AntPool" : {
             "name" : "AntPool",
             "link" : "https://www.antpool.com/"
