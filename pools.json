@@ -211,6 +211,10 @@
         "TBDice" : {
             "name" : "TBDice",
             "link" : "http://tbdice.org/"
+        },
+        "HASHPOOL" : {
+            "name" : "HASHPOOL",
+            "link" : "http://hashpool.com/"
         }
     },
     "payout_addresses" : {
