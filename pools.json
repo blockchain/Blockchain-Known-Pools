@@ -381,6 +381,10 @@
         "1qtKetXKgqa7j1KrB19HbvfRiNUncmakk" : {
             "name" : "transactioncoinmining",
             "link" : "http://sha256.transactioncoinmining.com/"
+        },
+        "15MxzsutVroEE9XiDckLxUHTCDAEZgPZJi" : {
+            "name" : "BTCDig",
+            "link" : "https://btcdig.com/"
         }
     }
 }
