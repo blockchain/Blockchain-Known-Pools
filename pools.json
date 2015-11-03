@@ -4,6 +4,10 @@
             "name" : "175btc",
             "link" : "http://www.175btc.com/"
         },
+        "/A-XBT/" : {
+            "name" : "A-XBT",
+            "link" : "http://www.a-xbt.com"
+        },
         "ASICMiner" : {
             "name" : "ASICMiner",
             "link" : "http://www.asicminer.co"
@@ -369,6 +373,10 @@
         "151T7r1MhizzJV6dskzzUkUdr7V8JxV2Dx" : {
             "name" : "myBTCcoin Pool",
             "link" : "http://www.mybtccoin.com/"
+        },
+        "1MFsp2txCPwMMBJjNNeKaduGGs8Wi1Ce7X" : {
+            "name" : "A-XBT",
+            "link" : "http://www.a-xbt.com/"
         },
         "1BUiW44WuJ2jiJgXiyxJVFMN8bc1GLdXRk" : {
             "name" : "TBDice",
