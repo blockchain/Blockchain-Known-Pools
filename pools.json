@@ -223,6 +223,10 @@
         "HASHPOOL" : {
             "name" : "HASHPOOL",
             "link" : "http://hashpool.com/"
+        },
+        "/Nexious/" : {
+            "name" : "Nexious",
+            "link" : "https://nexious.com/"
         }
     },
     "payout_addresses" : {
@@ -393,6 +397,10 @@
         "15MxzsutVroEE9XiDckLxUHTCDAEZgPZJi" : {
             "name" : "BTCDig",
             "link" : "https://btcdig.com/"
+        },
+        "1GBo1f2tzVx5jScV9kJXPUP9RjvYXuNzV7" : {
+            "name" : "Nexious",
+            "link" : "https://nexious.com/"
         }
     }
 }
