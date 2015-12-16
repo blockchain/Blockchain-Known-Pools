@@ -227,6 +227,10 @@
         "/Nexious/" : {
             "name" : "Nexious",
             "link" : "https://nexious.com/"
+        },
+        "/bravo-mining/" : {
+            "name" : "Bravo Mining",
+            "link" : "http://www.bravo-mining.com/"
         }
     },
     "payout_addresses" : {
