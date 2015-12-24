@@ -409,6 +409,10 @@
         "1AePMyovoijxvHuKhTqWvpaAkRCF4QswC6" : {
             "name" : "Tricky's BTC Pool",
             "link" : "http://pool.wemine.uk/"
+        },
+        "17judvK4AC2M6KhaBbAEGw8CTKc9Pg8wup" : {
+            "name" : "eSited",
+            "link" : "http://stratum1.esited.net:8080/"
         }
     }
 }
