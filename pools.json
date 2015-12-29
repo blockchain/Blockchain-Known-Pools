@@ -231,6 +231,10 @@
         "/bravo-mining/" : {
             "name" : "Bravo Mining",
             "link" : "http://www.bravo-mining.com/"
+        },
+        "/HotPool/" : {
+            "name": "HotPool",
+            "link": "https://hotpool.co/"
         }
     },
     "payout_addresses" : {
@@ -412,7 +416,7 @@
         },
         "17judvK4AC2M6KhaBbAEGw8CTKc9Pg8wup" : {
             "name" : "HotPool",
-            "link" : "http://hotpool.co/"
+            "link" : "https://hotpool.co/"
         }
     }
 }
