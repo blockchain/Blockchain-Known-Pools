@@ -153,19 +153,19 @@
             "link" : "http://cointerra.com/"
         },
         "/Kano" : {
-            "name" : "Kano CKPool",
+            "name" : "Kano CK",
             "link" : "https://kano.is/"
         },
         "/solo.ckpool.org/" : {
-            "name" : "Solo CKPool",
+            "name" : "Solo CK",
             "link" : "http://solo.ckpool.org/"
         },
         "/NiceHashSolo" : {
-            "name" : "NiceHash Solo",
+            "name" : "NiceHash",
             "link" : "https://solo.nicehash.com/"
         },
         "/BitClub Network/" : {
-            "name" : "BitClub Network",
+            "name" : "BitClub",
             "link" : "https://bitclubpool.com/"
         },
         "bitcoinaffiliatenetwork.com" : {
@@ -173,19 +173,19 @@
             "link" : "https://mining.bitcoinaffiliatenetwork.com/"
         },
         "BTCChina Pool" : {
-            "name" : "BTCC Pool",
+            "name" : "BTCC",
             "link" : "https://pool.btcc.com/"
         },
         "btcchina.com" : {
-            "name" : "BTCC Pool",
+            "name" : "BTCC",
             "link" : "https://pool.btcc.com/"
         },
         "BTCChina.com" : {
-            "name" : "BTCC Pool",
+            "name" : "BTCC",
             "link" : "https://pool.btcc.com/"
         },
         "/BTCC/" : {
-            "name" : "BTCC Pool",
+            "name" : "BTCC",
             "link" : "https://pool.btcc.com/"
         },
         "BW Pool" : {
@@ -323,7 +323,7 @@
             "link" : "http://bitsolo.net/"
         },
         "155fzsEBHy9Ri2bMQ8uuuR3tv1YzcDywd4" : {
-            "name" : "BitClub Network",
+            "name" : "BitClub",
             "link" : "https://bitclubpool.com/"
         },
         "14yfxkcpHnju97pecpM7fjuTkVdtbkcfE6" : {
