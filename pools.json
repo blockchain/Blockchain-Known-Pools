@@ -235,6 +235,10 @@
         "/HotPool/" : {
             "name": "HotPool",
             "link": "https://hotpool.co/"
+        },
+        "/BCMonster/" : {
+            "name": "BCMonster",
+            "link": "http://www.bcmonster.com/"
         }
     },
     "payout_addresses" : {
