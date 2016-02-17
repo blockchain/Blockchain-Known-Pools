@@ -429,6 +429,10 @@
         "1jKSjMLnDNup6NPgCjveeP9tUn4YpT94Y" : {
             "name" : "BTCMP",
             "link" : "https://www.btcmp.com/"
+        },
+        "1MPxhNkSzeTNTHSZAibMaS8HS1esmUL1ne" : {
+            "name" : "Eobot",
+            "link" : "https://eobot.com/"
         }
     }
 }
