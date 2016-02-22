@@ -200,6 +200,10 @@
             "name" : "BitFury",
             "link" : "http://bitfury.com/"
         },
+        "/Bitfury/" : {
+            "name" : "BitFury",
+            "link" : "http://bitfury.com/"
+        },
         "/pool34/" : {
             "name" : "21 Inc.",
             "link" : "https://21.co/"
