@@ -243,6 +243,10 @@
         "/BCMonster/" : {
             "name": "BCMonster",
             "link": "http://www.bcmonster.com/"
+        },
+        "Mined by 1hash.com" : {
+            "name": "1Hash",
+            "link": "http://www.1hash.com/"
         }
     },
     "payout_addresses" : {
@@ -437,6 +441,10 @@
         "1MPxhNkSzeTNTHSZAibMaS8HS1esmUL1ne" : {
             "name" : "Eobot",
             "link" : "https://eobot.com/"
+        },
+        "1F1xcRt8H8Wa623KqmkEontwAAVqDSAWCV" : {
+            "name" : "1Hash",
+            "link" : "http://www.1hash.com/"
         }
     }
 }
