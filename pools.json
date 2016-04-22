@@ -32,10 +32,6 @@
             "name" : "Eligius",
             "link" : "http://eligius.st/"
         },
-        "BitMinter" : {
-            "name" : "BitMinter",
-            "link" : "http://bitminter.com/"
-        },
         "ozco.in" : {
             "name" : "OzCoin",
             "link" : "http://ozcoin.net/"
@@ -200,6 +196,10 @@
             "name" : "BitFury",
             "link" : "http://bitfury.com/"
         },
+        "/Bitfury/" : {
+            "name" : "BitFury",
+            "link" : "http://bitfury.com/"
+        },
         "/pool34/" : {
             "name" : "21 Inc.",
             "link" : "https://21.co/"
@@ -239,6 +239,10 @@
         "/BCMonster/" : {
             "name": "BCMonster",
             "link": "http://www.bcmonster.com/"
+        },
+        "Mined by 1hash.com" : {
+            "name": "1Hash",
+            "link": "http://www.1hash.com/"
         }
     },
     "payout_addresses" : {
@@ -433,6 +437,14 @@
         "1MPxhNkSzeTNTHSZAibMaS8HS1esmUL1ne" : {
             "name" : "Eobot",
             "link" : "https://eobot.com/"
+        },
+        "1F1xcRt8H8Wa623KqmkEontwAAVqDSAWCV" : {
+            "name" : "1Hash",
+            "link" : "http://www.1hash.com/"
+        },
+        "1BRY8AD7vSNUEE75NjzfgiG18mWjGQSRuJ" : {
+            "name" : "UNOMP",
+            "link" : "http://199.115.116.7:8925/"
         }
     }
 }
