@@ -243,6 +243,10 @@
         "Mined by 1hash.com" : {
             "name": "1Hash",
             "link": "http://www.1hash.com/"
+        },
+        "/HaoBTC/" : {
+            "name": "HaoBTC",
+            "link": "https://haobtc.com/"
         }
     },
     "payout_addresses" : {
