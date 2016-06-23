@@ -247,6 +247,10 @@
         "/HaoBTC/" : {
             "name": "HaoBTC",
             "link": "https://haobtc.com/"
+        },
+        "viabtc.com deploy" : {
+            "name": "ViaBTC",
+            "link": "http://viabtc.com/"
         }
     },
     "payout_addresses" : {
