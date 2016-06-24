@@ -247,6 +247,10 @@
         "/HaoBTC/" : {
             "name": "HaoBTC",
             "link": "https://haobtc.com/"
+        },
+        "viabtc.com deploy" : {
+            "name": "ViaBTC",
+            "link": "http://viabtc.com/"
         }
     },
     "payout_addresses" : {
@@ -457,6 +461,10 @@
         "197miJmttpCt2ubVs6DDtGBYFDroxHmvVB" : {
             "name" : "Patel's Mining pool",
             "link" : "http://patelsminingpool.com/"
+        },
+        "18cBEMRxXHqzWWCxZNtU91F5sbUNKhL5PX" : {
+            "name" : "ViaBTC",
+            "link" : "http://viabtc.com/"
         }
     }
 }
