@@ -251,6 +251,10 @@
         "viabtc.com deploy" : {
             "name": "ViaBTC",
             "link": "http://viabtc.com/"
+        },
+        "/ViaBTC/" : {
+            "name": "ViaBTC",
+            "link": "http://viabtc.com/"
         }
     },
     "payout_addresses" : {
