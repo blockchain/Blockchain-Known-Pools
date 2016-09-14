@@ -473,6 +473,10 @@
         "18cBEMRxXHqzWWCxZNtU91F5sbUNKhL5PX" : {
             "name" : "ViaBTC",
             "link" : "http://viabtc.com/"
+        },
+        "3NA8hsjfdgVkmmVS9moHmkZsVCoLxUkvvv" : {
+            "name" : "BTCPool",
+            "link" : "https://pool.btc.com"
         }
     }
 }
