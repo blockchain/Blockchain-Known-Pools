@@ -4,6 +4,10 @@
             "name" : "175btc",
             "link" : "http://www.175btc.com/"
         },
+        "/mined by gbminers/" : {
+            "name" : "GBMiners",
+            "link" : "http://gbminers.com/"
+        },
         "/A-XBT/" : {
             "name" : "A-XBT",
             "link" : "http://www.a-xbt.com"
@@ -125,8 +129,8 @@
             "link" : "http://give-me-coins.com/"
         },
         "/slush/" : {
-           "name" : "Slush",
-           "link" : "http://mining.bitcoin.cz/"
+           "name" : "SlushPool",
+           "link" : "https://slushpool.com/"
         },
         "Mined by AntPool" : {
             "name" : "AntPool",
@@ -247,6 +251,10 @@
         "/HaoBTC/" : {
             "name": "HaoBTC",
             "link": "https://haobtc.com/"
+        },
+        "/ViaBTC/" : {
+            "name": "ViaBTC",
+            "link": "http://viabtc.com/"
         }
     },
     "payout_addresses" : {
@@ -279,12 +287,12 @@
             "link" : "https://polmine.pl/"
         },
         "1CK6KHY6MHgYvmRQ4PAafKYDrg1ejbH1cE" : {
-            "name" : "Slush",
-            "link" : "http://mining.bitcoin.cz/"
+            "name" : "SlushPool",
+            "link" : "https://slushpool.com/"
         },
         "1AqTMY7kmHZxBuLUR5wJjPFUvqGs23sesr" : {
-            "name" : "Slush",
-            "link" : "http://mining.bitcoin.cz/"
+            "name" : "SlushPool",
+            "link" : "https://slushpool.com/"
         },
         "1AcAj9p6zJn4xLXdvmdiuPCtY7YkBPTAJo" : {
             "name" : "BitFury",
