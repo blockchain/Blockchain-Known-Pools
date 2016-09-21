@@ -1,5 +1,9 @@
 {
     "coinbase_tags" : {
+        "pool.bitcoin.com" : {
+            "name" : "Bitcoin.com",
+            "link" : "https://www.bitcoin.com/"
+        },
         "Mined By 175btc.com" : {
             "name" : "175btc",
             "link" : "http://www.175btc.com/"
