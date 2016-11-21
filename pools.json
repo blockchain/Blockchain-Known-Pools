@@ -271,6 +271,14 @@
         "--Nug--" : {
             "name": "shawnp0wers",
             "link": "https://www.brainofshawn.com/"
+        },
+        "/phash.io/" : {
+            "name": "PHash.IO",
+            "link": "http://phash.io/"
+        },
+        "/phash.cn/" : {
+            "name": "PHash.IO",
+            "link": "http://phash.io/"
         }
     },
     "payout_addresses" : {
@@ -466,6 +474,10 @@
             "name" : "Eobot",
             "link" : "https://eobot.com/"
         },
+        "16GsNC3q6KgVXkUX7j7aPxSUdHrt1sN2yN" : {
+            "name" : "Eobot",
+            "link" : "https://eobot.com/"
+        },
         "1F1xcRt8H8Wa623KqmkEontwAAVqDSAWCV" : {
             "name" : "1Hash",
             "link" : "http://www.1hash.com/"
@@ -497,6 +509,10 @@
         "18HEMWFXM9UGPVZHUMdBPD3CMFWYn2NPRX" : {
             "name" : "shawnp0wers",
             "link" : "https://www.brainofshawn.com/"
+        },
+        "1AZ6BkCo4zgTuuLpRStJH8iNsehXTMp456" : {
+            "name" : "Bitcoin India",
+            "link" : "https://bitcoin-india.org/"
         }
     }
 }
