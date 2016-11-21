@@ -497,6 +497,10 @@
         "3NA8hsjfdgVkmmVS9moHmkZsVCoLxUkvvv" : {
             "name" : "BTC.com",
             "link" : "https://pool.btc.com"
+        },
+        "1AZ6BkCo4zgTuuLpRStJH8iNsehXTMp456" : {
+            "name" : "Bitcoin India",
+            "link" : "https://bitcoin-india.org/"
         }
     }
 }
