@@ -267,6 +267,14 @@
         "/Bitcoin-India/" : {
             "name": "Bitcoin India",
             "link": "https://bitcoin-india.org/"
+        },
+        "/phash.io/" : {
+            "name": "PHash.IO",
+            "link": "http://phash.io/"
+        },
+        "/phash.cn/" : {
+            "name": "PHash.IO",
+            "link": "http://phash.io/"
         }
     },
     "payout_addresses" : {
