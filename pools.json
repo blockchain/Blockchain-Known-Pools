@@ -268,6 +268,10 @@
             "name": "Bitcoin India",
             "link": "https://bitcoin-india.org/"
         },
+        "--Nug--" : {
+            "name": "shawnp0wers",
+            "link": "https://www.brainofshawn.com/"
+        },
         "/phash.io/" : {
             "name": "PHash.IO",
             "link": "http://phash.io/"
@@ -497,6 +501,14 @@
         "3NA8hsjfdgVkmmVS9moHmkZsVCoLxUkvvv" : {
             "name" : "BTC.com",
             "link" : "https://pool.btc.com"
+        },
+        "12znnESiJ3bgCLftwwrg9wzQKN8fJtoBDa" : {
+            "name" : "shawnp0wers",
+            "link" : "https://www.brainofshawn.com/"
+        },
+        "18HEMWFXM9UGPVZHUMdBPD3CMFWYn2NPRX" : {
+            "name" : "shawnp0wers",
+            "link" : "https://www.brainofshawn.com/"
         },
         "1AZ6BkCo4zgTuuLpRStJH8iNsehXTMp456" : {
             "name" : "Bitcoin India",
