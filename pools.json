@@ -279,6 +279,10 @@
         "/phash.cn/" : {
             "name": "PHash.IO",
             "link": "http://phash.io/"
+        },
+        "/BTC.TOP/" : {
+            "name": "BTC.TOP",
+            "link": "http://btc.top/"
         }
     },
     "payout_addresses" : {
@@ -517,6 +521,10 @@
         "1AZ6BkCo4zgTuuLpRStJH8iNsehXTMp456" : {
             "name" : "Bitcoin India",
             "link" : "https://bitcoin-india.org/"
+        },
+        "1Hz96kJKF2HLPGY15JWLB5m9qGNxvt8tHJ" : {
+            "name" : "BTC.TOP",
+            "link" : "http://btc.top/"
         }
     }
 }
