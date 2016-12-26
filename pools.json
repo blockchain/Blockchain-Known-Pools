@@ -283,6 +283,10 @@
         "/BTC.TOP/" : {
             "name": "BTC.TOP",
             "link": "http://btc.top/"
+        },
+        "/ConnectBTC - Home for Miners/" : {
+            "name": "ConnectBTC",
+            "link": "https://www.connectbtc.com/"
         }
     },
     "payout_addresses" : {
@@ -525,6 +529,10 @@
         "1Hz96kJKF2HLPGY15JWLB5m9qGNxvt8tHJ" : {
             "name" : "BTC.TOP",
             "link" : "http://btc.top/"
+        },
+        "1KPQkehgYAqwiC6UCcbojM3mbGjURrQJF2" : {
+            "name" : "ConnectBTC",
+            "link" : "https://www.connectbtc.com/"
         }
     }
 }
