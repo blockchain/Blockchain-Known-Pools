@@ -20,6 +20,10 @@
             "name" : "ASICMiner",
             "link" : "http://www.asicminer.co"
         },
+        "/BATPOOL/" : {
+            "name" : "BATPOOL",
+            "link" : "https://www.batpool.com/"
+        },
         "BitMinter" : {
             "name" : "BitMinter",
             "link" : "https://bitminter.com/"
@@ -537,6 +541,10 @@
         "1KPQkehgYAqwiC6UCcbojM3mbGjURrQJF2" : {
             "name" : "ConnectBTC",
             "link" : "https://www.connectbtc.com/"
+        },
+        "167ApWWxUSFQmz2jdz9xop3oAKdLejvMML" : {
+            "name" : "BATPOOL",
+            "link" : "https://www.batpool.com/"
         }
     }
 }
