@@ -287,6 +287,10 @@
         "/ConnectBTC - Home for Miners/" : {
             "name": "ConnectBTC",
             "link": "https://www.connectbtc.com/"
+        },
+        "/BTC.COM/" : {
+            "name": "BTC.com",
+            "link": "https://pool.btc.com"
         }
     },
     "payout_addresses" : {
