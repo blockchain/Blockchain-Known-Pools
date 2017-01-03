@@ -263,6 +263,14 @@
         "/ViaBTC/" : {
             "name": "ViaBTC",
             "link": "http://viabtc.com/"
+        },
+        "/ConnectBTC - Home for Miners/" : {
+            "name" : "ConnectBTC",
+            "link" : "https://www.connectbtc.com/"
+        },
+        "/BATPOOL/" : {
+            "name" : "BATPOOL",
+            "link" : "https://www.batpool.com/"
         }
     },
     "payout_addresses" : {
@@ -481,6 +489,18 @@
         "3NA8hsjfdgVkmmVS9moHmkZsVCoLxUkvvv" : {
             "name" : "BTC.com",
             "link" : "https://pool.btc.com"
+        },
+        "18EPLvrs2UE11kWBB3ABS7Crwj5tTBYPoa" : {
+            "name" : "GoGreenLight",
+            "link" : "http://www.gogreenlight.se/"
+        },
+        "1KPQkehgYAqwiC6UCcbojM3mbGjURrQJF2" : {
+            "name" : "ConnectBTC",
+            "link" : "https://www.connectbtc.com/"
+        },
+        "167ApWWxUSFQmz2jdz9xop3oAKdLejvMML" : {
+            "name" : "BATPOOL",
+            "link" : "https://www.batpool.com/"
         }
     }
 }
