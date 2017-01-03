@@ -1,5 +1,9 @@
 {
     "coinbase_tags" : {
+        "/BTC.TOP/": {
+            "name" : "BTC.TOP",
+            "link" : "http://www.btc.top/"
+        },
         "pool.bitcoin.com" : {
             "name" : "Bitcoin.com",
             "link" : "https://www.bitcoin.com/"
