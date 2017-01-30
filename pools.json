@@ -200,6 +200,10 @@
             "name" : "BW.COM",
             "link" : "https://bw.com/"
         },
+        "xbtc.exx.com&bw.com" : {
+            "name" : "xbtc.exx.com&bw.com",
+            "link" : "https://xbtc.exx.com"
+        },
         "Bitsolo Pool" : {
             "name" : "Bitsolo",
             "link" : "http://bitsolo.net/"
