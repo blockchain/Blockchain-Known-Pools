@@ -299,6 +299,10 @@
         "/BTC.COM/" : {
             "name": "BTC.com",
             "link": "https://pool.btc.com"
+        },
+        "/CANOE/" : {
+            "name": "CANOE",
+            "link": "https://www.canoepool.com"
         }
     },
     "payout_addresses" : {
@@ -557,6 +561,10 @@
         "167ApWWxUSFQmz2jdz9xop3oAKdLejvMML" : {
             "name" : "BATPOOL",
             "link" : "https://www.batpool.com"
+        },
+        "1Afcpc2FpPnREU6i52K3cicmHdvYRAH9Wo" : {
+            "name" : "CANOE",
+            "link" : "https://www.canoepool.com"
         }
     }
 }
