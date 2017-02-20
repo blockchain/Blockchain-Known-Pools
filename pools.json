@@ -303,6 +303,10 @@
         "/CANOE/" : {
             "name": "CANOE",
             "link": "https://www.canoepool.com"
+        },
+        "/RigPool.com/" : {
+            "name": "RigPool",
+            "link": "https://www.rigpool.com"
         }
     },
     "payout_addresses" : {
@@ -569,6 +573,10 @@
         "1Afcpc2FpPnREU6i52K3cicmHdvYRAH9Wo" : {
             "name" : "CANOE",
             "link" : "https://www.canoepool.com"
+        },
+        "1JpKmtspBJQVXK67DJP64eBJcAPhDvJ9Er" : {
+            "name" : "RigPool",
+            "link" : "https://www.rigpool.com"
         }
     }
 }
