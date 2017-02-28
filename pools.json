@@ -56,6 +56,10 @@
             "name" : "EclipseMC",
             "link" : "https://eclipsemc.com"
         },
+        "EclipseMC" : {
+            "name" : "EclipseMC",
+            "link" : "https://eclipsemc.com"
+        },
         "MaxBTC" : {
             "name" : "MaxBTC",
             "link" : "http://maxbtc.com"
@@ -69,6 +73,10 @@
             "link" : "https://www.triplemining.com"
         },
         "CoinLab" : {
+            "name" : "CoinLab",
+            "link" : "http://coinlab.com"
+        },
+        "Alydian" : {
             "name" : "CoinLab",
             "link" : "http://coinlab.com"
         },
@@ -136,6 +144,10 @@
             "name" : "Give Me Coins",
             "link" : "http://give-me-coins.com"
         },
+        "GIVE-ME-COINS" : {
+            "name": "Give Me Coins",
+            "link": "https://give-me-coins.com"
+        },
         "/slush/" : {
            "name" : "SlushPool",
            "link" : "https://slushpool.com"
@@ -201,7 +213,7 @@
             "link" : "https://bw.com"
         },
         "xbtc.exx.com&bw.com" : {
-            "name" : "xbtc.exx.com&bw.com",
+            "name" : "Exchange X",
             "link" : "https://xbtc.exx.com"
         },
         "Bitsolo Pool" : {
@@ -307,6 +319,22 @@
         "/RigPool.com/" : {
             "name": "RigPool",
             "link": "https://www.rigpool.com"
+        },
+        "/2av0id51pct/" : {
+            "name": "BitFury",
+            "link": "http://bitfury.com"
+        },
+        "mkalinin.ru" : {
+            "name": "mkalinin",
+            "link": "http://pool.mkalinin.ru"
+        },
+        "BitLC" : {
+            "name": "BitLC",
+            "link": "http://bitlc.net"
+        },
+        "bitclockers" : {
+            "name": "BitClockers",
+            "link": "http://bitclockers.com"
         }
     },
     "payout_addresses" : {
