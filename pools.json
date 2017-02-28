@@ -335,6 +335,10 @@
         "bitclockers" : {
             "name": "BitClockers",
             "link": "http://bitclockers.com"
+        },
+        "TangPool" : {
+            "name": "TangPool",
+            "link": "http://tangpool.com/"
         }
     },
     "payout_addresses" : {
