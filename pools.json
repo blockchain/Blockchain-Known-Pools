@@ -261,8 +261,8 @@
             "link": "http://www.1hash.com/"
         },
         "/HaoBTC/" : {
-            "name": "HaoBTC",
-            "link": "https://haobtc.com/"
+            "name": "Bixin",
+            "link": "https://bixin.com/common/pool_landing"
         },
         "/ViaBTC/" : {
             "name": "ViaBTC",
@@ -505,6 +505,10 @@
         "167ApWWxUSFQmz2jdz9xop3oAKdLejvMML" : {
             "name" : "BATPOOL",
             "link" : "https://www.batpool.com/"
+        },
+        "1KsFhYKLs8qb1GHqrPxHoywNQpet2CtP9t" : {
+            "name" : "Bixin",
+            "link" : "https://bixin.com/common/pool_landing"
         }
     }
 }
