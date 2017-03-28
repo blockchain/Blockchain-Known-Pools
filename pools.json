@@ -275,6 +275,10 @@
         "/BATPOOL/" : {
             "name" : "BATPOOL",
             "link" : "https://www.batpool.com/"
+        },
+        "/CANOE/" : {
+            "name" : "CANOE",
+            "link" : "https://www.canoepool.com/"
         }
     },
     "payout_addresses" : {
