@@ -521,6 +521,10 @@
         "1AZ6BkCo4zgTuuLpRStJH8iNsehXTMp456" : {
             "name" : "BitcoinIndia",
             "link" : "https://pool.bitcoin-india.org/"
+         },
+         "19fUeAKYE9vKt5UZUJhiw2wdihjBGkMZpf" : {
+            "name" : "PH.Mining",
+            "link" : "https://112.198.72.22/" 
         }
     }
 }
