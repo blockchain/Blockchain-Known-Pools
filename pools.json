@@ -28,6 +28,10 @@
             "name" : "BitMinter",
             "link" : "https://bitminter.com"
         },
+        "/Bitcoin-Russia.ru/" : {
+            "name" : "BitcoinRussia",
+            "link" : "https://bitcoin-russia.ru/"
+        },
         "btcserv" : {
             "name" : "BTCServ",
             "link" : "http://btcserv.net"
@@ -353,6 +357,10 @@
         "1AcAj9p6zJn4xLXdvmdiuPCtY7YkBPTAJo" : {
             "name" : "BitFury",
             "link" : "http://bitfury.com"
+        },
+        "14R2r9FkyDmyxGB9xUVwVLdgsX9YfdVamk" : {
+            "name" : "BitcoinRussia",
+            "link" : "https://bitcoin-russia.ru/"
         },
         "1BX5YoLwvqzvVwSrdD4dC32vbouHQn2tuF" : {
             "name" : "Cointerra",
