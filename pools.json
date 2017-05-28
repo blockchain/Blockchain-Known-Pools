@@ -319,6 +319,10 @@
         "/WATERHOLE.IO/" : {
             "name": "Waterhole",
             "link": "https://btc.waterhole.io/"
+        },
+        "/$Mined by 7pool.com/" : {
+            "name": "7pool",
+            "link": "https://7pool.com/"
         }
     },
     "payout_addresses" : {
@@ -625,6 +629,10 @@
         "1FLH1SoLv4U68yUERhDiWzrJn5TggMqkaZ" : {
             "name" : "Waterhole",
             "link" : "https://btc.waterhole.io/"
+        },
+        "1JLc3JxvpdL1g5zoX8sKLP4BkJQiwnJftU" : {
+            "name" : "7pool",
+            "link" : "https://7pool.com/"
         }
     }
 }
