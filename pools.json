@@ -279,6 +279,10 @@
         "/CANOE/" : {
             "name" : "CANOE",
             "link" : "https://www.canoepool.com/"
+        },
+        "/WATERHOLE.IO/" : {
+            "name" : "Waterhole",
+            "link" : "https://btc.waterhole.io/"
         }
     },
     "payout_addresses" : {
@@ -521,6 +525,10 @@
         "1AZ6BkCo4zgTuuLpRStJH8iNsehXTMp456" : {
             "name" : "BitcoinIndia",
             "link" : "https://pool.bitcoin-india.org/"
+        },
+        "1FLH1SoLv4U68yUERhDiWzrJn5TggMqkaZ" : {
+            "name" : "Waterhole",
+            "link" : "https://btc.waterhole.io/"
         }
     }
 }
