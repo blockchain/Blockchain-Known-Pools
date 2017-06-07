@@ -277,7 +277,7 @@
             "link" : "https://www.batpool.com/"
         },
         "/CANOE/" : {
-            "name" : "CANOE",
+            "name" : "CanoePool",
             "link" : "https://www.canoepool.com/"
         },
         "/WATERHOLE.IO/" : {
@@ -529,6 +529,10 @@
         "1FLH1SoLv4U68yUERhDiWzrJn5TggMqkaZ" : {
             "name" : "Waterhole",
             "link" : "https://btc.waterhole.io/"
+        },
+        "1Afcpc2FpPnREU6i52K3cicmHdvYRAH9Wo" : {
+            "name" : "CanoePool",
+            "link" : "https://www.canoepool.com/"
         }
     }
 }
