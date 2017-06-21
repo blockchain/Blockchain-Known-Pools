@@ -323,6 +323,10 @@
         "/$Mined by 7pool.com/" : {
             "name": "7pool",
             "link": "https://7pool.com/"
+        },
+        "/mined by poopbut/" : {
+            "name": "MiningKings",
+            "link": "https://miningkings.com/"
         }
     },
     "payout_addresses" : {
@@ -633,6 +637,18 @@
         "1JLc3JxvpdL1g5zoX8sKLP4BkJQiwnJftU" : {
             "name" : "7pool",
             "link" : "https://7pool.com/"
+        },
+        "1EowSPumj9D9AMTpE64Jr7vT3PJDNopVcz" : {
+            "name" : "MiningKings",
+            "link" : "https://miningkings.com/"
+        },
+        "1ApE99VM5RJzMRRtwd2JMgmkGabtJqoMEz" : {
+            "name" : "MiningKings",
+            "link" : "https://miningkings.com/"
+        },
+        "1KGbsDDAgJN2HDNBjmMHp9828qATo5B9c9" : {
+            "name" : "MiningKings",
+            "link" : "https://miningkings.com/"
         }
     }
 }
