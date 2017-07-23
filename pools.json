@@ -160,8 +160,8 @@
             "name" : "Cointerra",
             "link" : "http://cointerra.com/"
         },
-        "/Kano" : {
-            "name" : "Kano CK",
+        "Kano" : {
+            "name" : "KanoPool",
             "link" : "https://kano.is/"
         },
         "/solo.ckpool.org/" : {
