@@ -327,6 +327,10 @@
         "/mined by poopbut/" : {
             "name": "MiningKings",
             "link": "https://miningkings.com/"
+        },
+        "/DCEX/" : {
+            "name" : "DCEX",
+            "link" : "http://dcexploration.cn"
         }
     },
     "payout_addresses" : {
