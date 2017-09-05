@@ -278,7 +278,7 @@
         },
         "/CANOE/" : {
             "name" : "CanoePool",
-            "link" : "https://www.canoepool.com/"
+            "link" : "https://btc.canoepool.com/"
         },
         "/WATERHOLE.IO/" : {
             "name" : "Waterhole",
@@ -538,9 +538,9 @@
             "name" : "Waterhole",
             "link" : "https://btc.waterhole.io/"
         },
-        "1Afcpc2FpPnREU6i52K3cicmHdvYRAH9Wo" : {
+        "1GP8eWArgpwRum76saJS4cZKCHWJHs9PQo" : {
             "name" : "CanoePool",
-            "link" : "https://www.canoepool.com/"
+            "link" : "https://btc.canoepool.com/"
         }
     }
 }
