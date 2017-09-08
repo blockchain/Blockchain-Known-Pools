@@ -287,6 +287,10 @@
         "/BTC.COM/" : {
             "name" : "BTC.com",
             "link" : "https://pool.btc.com"
+        },
+        "/DCEX/" : {
+            "name" : "DCEX",
+            "link" : ""
         }
     },
     "payout_addresses" : {
