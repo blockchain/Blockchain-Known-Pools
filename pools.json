@@ -291,6 +291,10 @@
         "/DCEX/" : {
             "name" : "DCEX",
             "link" : ""
+        },
+        "/BTPOOL/" : {
+            "name" : "BTPOOL",
+            "link" : ""
         }
     },
     "payout_addresses" : {
