@@ -172,6 +172,10 @@
             "name" : "Solo CKPool",
             "link" : "http://solo.ckpool.org"
         },
+        "/ckpool.org/" : {
+            "name" : "CKPool",
+            "link" : "http://ckpool.org"
+        },
         "/NiceHashSolo" : {
             "name" : "NiceHash Solo",
             "link" : "https://solo.nicehash.com"
