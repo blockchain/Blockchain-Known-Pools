@@ -6,11 +6,11 @@
         },
         "Mined By 175btc.com" : {
             "name" : "175btc",
-            "link" : "http://www.175btc.com"
+            "link" : "https://www.175btc.com"
         },
         "/mined by gbminers/" : {
             "name" : "GBMiners",
-            "link" : "http://gbminers.com"
+            "link" : "https://gbminers.com"
         },
         "/A-XBT/" : {
             "name" : "A-XBT",
@@ -30,7 +30,7 @@
         },
         "/Bitcoin-Russia.ru/" : {
             "name" : "BitcoinRussia",
-            "link" : "https://bitcoin-russia.ru/"
+            "link" : "https://bitcoin-russia.ru"
         },
         "btcserv" : {
             "name" : "BTCServ",
@@ -74,7 +74,7 @@
         },
         "CoinLab" : {
             "name" : "CoinLab",
-            "link" : "http://coinlab.com"
+            "link" : "https://coinlab.com"
         },
         "50BTC" : {
             "name" : "50BTC",
@@ -274,11 +274,11 @@
         },
         "viabtc.com deploy" : {
             "name": "ViaBTC",
-            "link": "http://viabtc.com"
+            "link": "https://viabtc.com"
         },
         "/ViaBTC/" : {
             "name": "ViaBTC",
-            "link": "http://viabtc.com"
+            "link": "https://viabtc.com"
         },
         "/Bitcoin-India/" : {
             "name": "Bitcoin India",
