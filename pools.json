@@ -295,6 +295,10 @@
         "/BTPOOL/" : {
             "name" : "BTPOOL",
             "link" : ""
+        },
+        "/58coin.com/" : {
+            "name" : "58COIN",
+            "link" : "https://www.58coin.com"
         }
     },
     "payout_addresses" : {
@@ -549,6 +553,10 @@
         "1GP8eWArgpwRum76saJS4cZKCHWJHs9PQo" : {
             "name" : "CanoePool",
             "link" : "https://btc.canoepool.com/"
+        },
+        "199EDJoCpqV672qESEkfFgEqNT1iR2gj3t" : {
+            "name" : "58COIN",
+            "link" : "https://www.58coin.com/"
         }
     }
 }
