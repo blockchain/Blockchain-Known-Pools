@@ -288,8 +288,8 @@
             "name" : "BTC.com",
             "link" : "https://pool.btc.com"
         },
-        "/DCEX/" : {
-            "name" : "DCEX",
+        "/DCExploration/" : {
+            "name" : "DCExploration",
             "link" : ""
         },
         "/BTPOOL/" : {
