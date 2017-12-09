@@ -28,7 +28,7 @@
             "name" : "BitMinter",
             "link" : "https://bitminter.com/"
         },
-		"/Bitcoin-Russia.ru/" : {
+	"/Bitcoin-Russia.ru/" : {
             "name" : "BitcoinRussia",
             "link" : "https://bitcoin-russia.ru"
         },
@@ -276,7 +276,7 @@
             "name": "Bixin",
             "link": "https://bixin.com/common/pool_landing"
         },
-		"viabtc.com deploy" : {
+	"viabtc.com deploy" : {
             "name": "ViaBTC",
             "link": "https://viabtc.com"
         },
@@ -320,7 +320,7 @@
             "name" : "58COIN",
             "link" : "https://www.58coin.com"
         },
-		"/Bitcoin-India/" : {
+	"/Bitcoin-India/" : {
             "name": "Bitcoin India",
             "link": "https://bitcoin-india.org"
         },
@@ -336,7 +336,7 @@
             "name": "PHash.IO",
             "link": "http://phash.io"
         },
-		"/RigPool.com/" : {
+	"/RigPool.com/" : {
             "name": "RigPool",
             "link": "https://www.rigpool.com"
         },
@@ -344,14 +344,14 @@
             "name": "HAOZHUZHU",
             "link": "http://haozhuzhu.com/"
         },
-		"/$Mined by 7pool.com/" : {
+	"/$Mined by 7pool.com/" : {
             "name": "7pool",
             "link": "https://7pool.com/"
         },
         "/mined by poopbut/" : {
             "name": "MiningKings",
             "link": "https://miningkings.com/"
-        },
+        }
     },
     "payout_addresses" : {
         "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC" : {
