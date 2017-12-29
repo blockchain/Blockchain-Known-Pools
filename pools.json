@@ -339,6 +339,10 @@
         "/58coin.com/" : {
             "name" : "58COIN",
             "link" : "https://www.58coin.com"
+        },
+        "/Mined by HashBX.io/" : {
+            "name": "HashBX",
+            "link": "https://hashbx.io"
         }
     },
     "payout_addresses" : {
