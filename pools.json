@@ -1,5 +1,9 @@
 {
     "coinbase_tags" : {
+        "/canoepool/": {
+            "name": "CANOEPOOL",
+            "link": "http://www.canoepool.com/"
+        },
         "/BTC.TOP/": {
             "name" : "BTC.TOP",
             "link" : "http://www.btc.top/"
@@ -351,6 +355,10 @@
         "/mined by poopbut/" : {
             "name": "MiningKings",
             "link": "https://miningkings.com/"
+        },
+        "/Mined by HashBX.io/" : {
+            "name": "HashBX",
+            "link": "https://hashbx.io"
         }
     },
     "payout_addresses" : {
