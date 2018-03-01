@@ -1,8 +1,12 @@
 {
     "coinbase_tags" : {
+        "/E2M & BTC.TOP/": {
+            "name": "Easy2Mine",
+            "link": "http://www.easy2mine.com/"
+        },
         "/canoepool/": {
             "name": "CanoePool",
-            "link": "http://www.canoepool.com/"
+            "link": "https://www.canoepool.com/"
         },
         "/BTC.TOP/": {
             "name" : "BTC.TOP",
