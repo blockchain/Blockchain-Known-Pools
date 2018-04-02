@@ -363,6 +363,10 @@
         "/Mined by HashBX.io/" : {
             "name": "HashBX",
             "link": "https://hashbx.io"
+        },
+        "/DPOOL.TOP/": {
+            "name" : "DPOOL",
+            "link" : "http://www.dpool.top/"
         }
     },
     "payout_addresses" : {
@@ -706,9 +710,9 @@
             "name" : "MiningKings",
             "link" : "https://miningkings.com/"
         },
-	"/DPOOL.TOP/": {
+        "1ACAgPuFFidYzPMXbiKptSrwT74Dg8hq2v" : {
             "name" : "DPOOL",
             "link" : "http://www.dpool.top/"
-        },
+        }
     }
 }
