@@ -1,5 +1,9 @@
 {
     "coinbase_tags" : {
+        "/Huobi/": {
+            "name": "huobi.pool",
+            "link": "https://www.poolhb.com/"
+        },
         "/E2M & BTC.TOP/": {
             "name": "WAYI.CN",
             "link": "http://www.easy2mine.com/"
