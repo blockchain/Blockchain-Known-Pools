@@ -285,8 +285,8 @@
             "link": "http://www.1hash.com/"
         },
         "/HaoBTC/" : {
-            "name": "Bixin",
-            "link": "https://bixin.com/common/pool_landing"
+            "name": "HaoPool",
+            "link": "https://haopool.com/"
         },
         "viabtc.com deploy" : {
             "name": "ViaBTC",
@@ -623,8 +623,12 @@
             "link" : "https://www.batpool.com/"
         },
         "1KsFhYKLs8qb1GHqrPxHoywNQpet2CtP9t" : {
-            "name" : "Bixin",
-            "link" : "https://bixin.com/common/pool_landing"
+            "name" : "HaoPool",
+            "link" : "https://haopool.com/"
+        },
+        "13hQVEstgo4iPQZv9C7VELnLWF7UWtF4Q3" : {
+            "name" : "HaoPool",
+            "link" : "https://haopool.com/"
         },
         "19qa95rTbDziNCS9EexUbh2hVY4viUU9tt" : {
             "name" : "HAOZHUZHU",
