@@ -343,6 +343,10 @@
         "/Mined by HashBX.io/" : {
             "name": "HashBX",
             "link": "https://hashbx.io"
+        },
+        "/DPOOL.TOP/" : {
+            "name": "DPOOL",
+            "link": "https://www.dpool.top/"
         }
     },
     "payout_addresses" : {
@@ -673,6 +677,10 @@
         "199EDJoCpqV672qESEkfFgEqNT1iR2gj3t" : {
             "name" : "58COIN",
             "link" : "https://www.58coin.com/"
+        },
+        "1ACAgPuFFidYzPMXbiKptSrwT74Dg8hq2v" : {
+            "name": "DPOOL",
+            "link": "https://www.dpool.top/"
         }
     }
 }
