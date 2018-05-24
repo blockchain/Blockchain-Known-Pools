@@ -681,6 +681,10 @@
         "1ACAgPuFFidYzPMXbiKptSrwT74Dg8hq2v" : {
             "name": "DPOOL",
             "link": "https://www.dpool.top/"
+        },
+        "haominer" : {
+            "name": "Haominer",
+            "link": "http://haominer.com/"
         }
     }
 }
