@@ -347,6 +347,10 @@
         "/DPOOL.TOP/" : {
             "name": "DPOOL",
             "link": "https://www.dpool.top/"
+        },
+        "/haominer/" : {
+            "name": "Haominer",
+            "link": "http://haominer.com/"
         }
     },
     "payout_addresses" : {
@@ -681,10 +685,6 @@
         "1ACAgPuFFidYzPMXbiKptSrwT74Dg8hq2v" : {
             "name": "DPOOL",
             "link": "https://www.dpool.top/"
-        },
-        "haominer" : {
-            "name": "Haominer",
-            "link": "http://haominer.com/"
         }
     }
 }
