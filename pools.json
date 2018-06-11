@@ -725,6 +725,10 @@
         "1ACAgPuFFidYzPMXbiKptSrwT74Dg8hq2v" : {
             "name" : "DPOOL",
             "link" : "http://www.dpool.top/"
+        },
+         "1FbBbv5oYqFKwiPm4CAqvAy8345n8AQ74b" : {
+            "name" : "Rawpool.com",
+            "link" : "https://www.rawpool.com/"
         }
     }
 }
