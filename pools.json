@@ -371,6 +371,10 @@
         "/DPOOL.TOP/": {
             "name" : "DPOOL",
             "link" : "http://www.dpool.top/"
+        },
+        "/Rawpool.com/": {
+            "name" : "Rawpool.com",
+            "link" : "https://www.rawpool.com/"
         }
     },
     "payout_addresses" : {
