@@ -224,6 +224,10 @@
             "name" : "BW.COM",
             "link" : "https://bw.com/"
         },
+        "BWPool" : {
+            "name" : "BWPool",
+            "link" : "https://bwpool.net/"
+        },
         "xbtc.exx.com&bw.com" : {
             "name" : "EXX&BW",
             "link" : "https://xbtc.exx.com/"
