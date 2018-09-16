@@ -56,6 +56,10 @@
             "name" : "BTC Guild",
             "link" : "http://www.btcguild.com/"
         },
+        "BITFARMS" : {
+            "name": "Bitfarms",
+            "link": "https://www.bitfarms.io/"
+        },
         "Eligius" : {
             "name" : "Eligius",
             "link" : "http://eligius.st/"
@@ -550,6 +554,10 @@
             "name" : "8baochi",
             "link" : "http://8baochi.com/"
         },
+        "3GvEGtnvgeBJ3p3EpdZhvUkxY4pDARkbjd" : {
+            "name" : "Bitfarms",
+            "link" : "https://www.bitfarms.io/"
+        },        
         "151T7r1MhizzJV6dskzzUkUdr7V8JxV2Dx" : {
             "name" : "myBTCcoin Pool",
             "link" : "http://www.mybtccoin.com/"
