@@ -1,5 +1,9 @@
 {
     "coinbase_tags" : {
+        "BITFARMS": {
+            "name": "Bitfarms",
+            "link": "https://www.bitarms.io/"
+        },
         "/Huobi/": {
             "name": "Huobi.pool",
             "link": "https://www.poolhb.com/"
@@ -394,6 +398,10 @@
         }
     },
     "payout_addresses" : {
+        "3GvEGtnvgeBJ3p3EpdZhvUkxY4pDARkbjd" : {
+            "name" : "Bitfarms",
+            "link" : "https://www.bitfarms.io/"
+        },
         "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC" : {
             "name" : "GHash.IO",
             "link" : "https://ghash.io/"
