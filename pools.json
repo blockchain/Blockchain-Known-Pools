@@ -395,6 +395,18 @@
         "/Bitcoin-Ukraine.com.ua/": {
             "name": "Bitcoin-Ukraine",
             "link": "https://bitcoin-ukraine.com.ua/"
+        },
+        "/poolin.com": {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com/"
+        },
+        "/SecretSuperstar/": {
+            "name" : "SecretSuperstar",
+            "link" : ""
+        },
+        "/tigerpool.net": {
+            "name" : "tigerpool.net",
+            "link" : ""
         }
     },
     "payout_addresses" : {
