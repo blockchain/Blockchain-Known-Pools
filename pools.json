@@ -411,6 +411,10 @@
         "/SigmaPool.com/": {
             "name" : "sigmapool.com",
             "link" : "https://sigmapool.com"
+        },
+        "/www.okpool.top/": {
+            "name" : "okpool.top",
+            "link" : "https://www.okpool.top"
         }
     },
     "payout_addresses" : {
