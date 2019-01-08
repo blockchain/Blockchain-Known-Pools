@@ -407,6 +407,14 @@
         "/tigerpool.net": {
             "name" : "tigerpool.net",
             "link" : ""
+        },
+        "/SigmaPool.com/": {
+            "name" : "sigmapool.com",
+            "link" : "https://sigmapool.com"
+        },
+        "/www.okpool.top/": {
+            "name" : "okpool.top",
+            "link" : "https://www.okpool.top"
         }
     },
     "payout_addresses" : {
@@ -775,6 +783,10 @@
             "link" : "https://www.poolin.com/"
         },
         "3KJrsjfg1dD6CrsTeHdHVH3KqMpvL2XWQn" : {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com/"
+        },
+        "3JQSigWTCHyBLRD979JWgEtWP5YiiFwcQB" : {
             "name" : "Poolin",
             "link" : "https://www.poolin.com/"
         }
