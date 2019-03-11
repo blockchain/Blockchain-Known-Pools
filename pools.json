@@ -423,6 +423,10 @@
         "/www.okpool.top/": {
             "name" : "okpool.top",
             "link" : "https://www.okpool.top"
+        },
+        "Hummerpool": {
+            "name" : "Hummerpool",
+            "link" : ""
         }
     },
     "payout_addresses" : {
