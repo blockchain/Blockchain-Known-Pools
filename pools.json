@@ -300,6 +300,10 @@
             "name": "Bixin",
             "link": "https://haopool.com/"
         },
+        "HAOBTC" : {
+            "name": "Bixin",
+            "link": "https://haopool.com/"
+        },
         "/Bixin/" : {
             "name": "Bixin",
             "link": "https://haopool.com/"
@@ -427,6 +431,10 @@
         "Hummerpool": {
             "name" : "Hummerpool",
             "link" : ""
+        },
+        "/Tangpool/": {
+            "name" : "Tangpool",
+            "link" : "http://www.tangpool.com/"
         }
     },
     "payout_addresses" : {
@@ -801,6 +809,10 @@
         "3JQSigWTCHyBLRD979JWgEtWP5YiiFwcQB" : {
             "name" : "Poolin",
             "link" : "https://www.poolin.com/"
+        },
+        "12Taz8FFXQ3E2AGn3ZW1SZM5bLnYGX4xR6" : {
+            "name" : "Tangpool",
+            "link" : "http://www.tangpool.com/"
         }
     }
 }
