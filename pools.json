@@ -1,5 +1,9 @@
 {
     "coinbase_tags" : {
+        "/poolin.com/" : {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com"
+        },
         "SigmaPool.com" : {
             "name" : "SigmaPool.com",
             "link" : "https://www.sigmapool.com/"
