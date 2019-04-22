@@ -367,6 +367,10 @@
         "/haominer/" : {
             "name": "Haominer",
             "link": "http://haominer.com/"
+        },
+        "Hummerpool" : {
+            "name" : "Hummerpool",
+            "link" : ""
         }
     },
     "payout_addresses" : {
