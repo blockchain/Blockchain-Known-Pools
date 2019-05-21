@@ -813,6 +813,14 @@
         "12Taz8FFXQ3E2AGn3ZW1SZM5bLnYGX4xR6" : {
             "name" : "Tangpool",
             "link" : "http://www.tangpool.com/"
+        },
+        "1MvYASoHjqynMaMnP7SBmenyEWiLsTqoU6" : {
+            "name": "Huobi.pool",
+            "link": "https://www.poolhb.com/"
+        },
+        "1M1Xw2rczxkF3p3wiNHaTmxvbpZZ7M6vaa" : {
+            "name": "1M1X",
+            "link": ""
         }
     }
 }
