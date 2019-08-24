@@ -435,6 +435,10 @@
         "/Tangpool/": {
             "name" : "Tangpool",
             "link" : "http://www.tangpool.com/"
+        },
+        "/SpiderPool.com/": {
+            "name" : "SpiderPool",
+            "link" : "https://www.spiderpool.com/"
         }
     },
     "payout_addresses" : {
@@ -821,6 +825,10 @@
         "1M1Xw2rczxkF3p3wiNHaTmxvbpZZ7M6vaa" : {
             "name": "1M1X",
             "link": ""
+        },
+        "38u1srayb1oybVB43UWKBJsrwJbdHGtPx2": {
+            "name" : "SpiderPool",
+            "link" : "https://www.spiderpool.com/"
         }
     }
 }
