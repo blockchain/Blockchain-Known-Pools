@@ -435,6 +435,10 @@
         "/Tangpool/": {
             "name" : "Tangpool",
             "link" : "http://www.tangpool.com/"
+        },
+        "/bytepool.com/": {
+            "name" : "BytePool",
+            "link" : "https://bytepool.com/"
         }
     },
     "payout_addresses" : {
@@ -821,6 +825,10 @@
         "1M1Xw2rczxkF3p3wiNHaTmxvbpZZ7M6vaa" : {
             "name": "1M1X",
             "link": ""
+        },
+        "39m5Wvn9ZqyhYmCYpsyHuGMt5YYw4Vmh1Z" : {
+            "name": "BytePool",
+            "link": "https://bytepool.com/"
         }
     }
 }
