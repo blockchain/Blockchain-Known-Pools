@@ -1,5 +1,9 @@
 {
     "coinbase_tags" : {
+        "/1THash&58COIN/": {
+            "name": "1THash&58COIN",
+            "link": "https://www.1thash.com"
+        },
         "BITFARMS": {
             "name": "Bitfarms",
             "link": "https://www.bitarms.io/"
