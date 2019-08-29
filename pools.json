@@ -438,6 +438,10 @@
         }
     },
     "payout_addresses" : {
+        "3Bmb9Jig8A5kHdDSxvDZ6eryj3AXd3swuJ": {
+            "name" : "NovaBlock",
+            "link" : "https://novablock.com"
+         },
         "3GvEGtnvgeBJ3p3EpdZhvUkxY4pDARkbjd" : {
             "name" : "Bitfarms",
             "link" : "https://www.bitfarms.io/"
