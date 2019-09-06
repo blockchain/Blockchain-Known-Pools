@@ -440,6 +440,10 @@
             "name" : "Tangpool",
             "link" : "http://www.tangpool.com/"
         },
+        "/bytepool.com/": {
+            "name" : "BytePool",
+            "link" : "https://bytepool.com/"
+        },
         "/SpiderPool.com/": {
             "name" : "SpiderPool",
             "link" : "https://www.spiderpool.com/"
@@ -833,6 +837,10 @@
         "1M1Xw2rczxkF3p3wiNHaTmxvbpZZ7M6vaa" : {
             "name": "1M1X",
             "link": ""
+        },
+        "39m5Wvn9ZqyhYmCYpsyHuGMt5YYw4Vmh1Z" : {
+            "name": "BytePool",
+            "link": "https://bytepool.com/"
         },
         "38u1srayb1oybVB43UWKBJsrwJbdHGtPx2": {
             "name" : "SpiderPool",
