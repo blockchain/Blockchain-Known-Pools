@@ -1,5 +1,9 @@
 {
     "coinbase_tags" : {
+        "/1THash&58COIN/": {
+            "name": "1THash&58COIN",
+            "link": "https://www.1thash.com"
+        },
         "BITFARMS": {
             "name": "Bitfarms",
             "link": "https://www.bitarms.io/"
@@ -439,9 +443,17 @@
         "/bytepool.com/": {
             "name" : "BytePool",
             "link" : "https://bytepool.com/"
+        },
+        "/SpiderPool.com/": {
+            "name" : "SpiderPool",
+            "link" : "https://www.spiderpool.com/"
         }
     },
     "payout_addresses" : {
+        "3Bmb9Jig8A5kHdDSxvDZ6eryj3AXd3swuJ": {
+            "name" : "NovaBlock",
+            "link" : "https://novablock.com"
+         },
         "3GvEGtnvgeBJ3p3EpdZhvUkxY4pDARkbjd" : {
             "name" : "Bitfarms",
             "link" : "https://www.bitfarms.io/"
@@ -829,6 +841,10 @@
         "39m5Wvn9ZqyhYmCYpsyHuGMt5YYw4Vmh1Z" : {
             "name": "BytePool",
             "link": "https://bytepool.com/"
+        },
+        "38u1srayb1oybVB43UWKBJsrwJbdHGtPx2": {
+            "name" : "SpiderPool",
+            "link" : "https://www.spiderpool.com/"
         }
     }
 }
