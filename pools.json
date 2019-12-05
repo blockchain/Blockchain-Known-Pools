@@ -447,6 +447,10 @@
         "/SpiderPool.com/": {
             "name" : "SpiderPool",
             "link" : "https://www.spiderpool.com/"
+        },
+        "/LUXOR/": {
+            "name": "Found by Luxor",
+            "link": "https://www.whatisluxorwebsite.com"
         }
     },
     "payout_addresses" : {
