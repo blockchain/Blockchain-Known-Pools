@@ -143,6 +143,11 @@
         "七彩神仙鱼" : {
             "name" : "F2Pool",
             "link" : "https://www.f2pool.com/"
+        }
+        },
+        "🐟" : {
+            "name" : "F2Pool",
+            "link" : "https://www.f2pool.com/"
         },
         "HHTT" : {
             "name" : "HHTT",
@@ -346,7 +351,7 @@
         },
         "/DCEX/" : {
             "name" : "DCEX",
-            "link" : "http://dcexploration.cn"               
+            "link" : "http://dcexploration.cn"
         },
         "/BTPOOL/" : {
             "name" : "BTPOOL",
