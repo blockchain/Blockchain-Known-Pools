@@ -144,6 +144,10 @@
             "name" : "F2Pool",
             "link" : "https://www.f2pool.com/"
         },
+        "🐟" : {
+            "name" : "F2Pool",
+            "link" : "https://www.f2pool.com/"
+        },
         "HHTT" : {
             "name" : "HHTT",
             "link" : "http://hhtt.1209k.com/"
@@ -346,7 +350,7 @@
         },
         "/DCEX/" : {
             "name" : "DCEX",
-            "link" : "http://dcexploration.cn"               
+            "link" : "http://dcexploration.cn"
         },
         "/BTPOOL/" : {
             "name" : "BTPOOL",
