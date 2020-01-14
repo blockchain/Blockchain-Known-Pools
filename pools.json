@@ -455,6 +455,10 @@
         "/SpiderPool.com/": {
             "name" : "SpiderPool",
             "link" : "https://www.spiderpool.com/"
+        },
+        "/NovaBlock/": {
+            "name" : "NovaBlock",
+            "link" : "https://novablock.com"
         }
     },
     "payout_addresses" : {
