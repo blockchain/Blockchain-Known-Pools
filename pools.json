@@ -466,7 +466,7 @@
         },
         "MiningCity":{
             "name" : "MiningCity",
-            "link" : ""
+            "link" : "https://www.miningcity.com/"
         }
     },
     "payout_addresses" : {
@@ -1024,7 +1024,7 @@
         },
         "11wC5KcbgrWRBb43cwADdVrxgyF8mndVC": {
             "name": "MiningCity",
-            "link": ""
+            "link": "https://www.miningcity.com/"
         }
     }
 }
