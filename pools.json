@@ -454,9 +454,9 @@
         },
         "/bytepool.com/": {
             "name" : "BytePool",
-            "link" : "https://bytepool.com/"
+            "link" : "https://www.bytepool.com/"
         },
-        "/SpiderPool.com/": {
+        "/SpiderPool/": {
             "name" : "SpiderPool",
             "link" : "https://www.spiderpool.com/"
         },
@@ -860,7 +860,7 @@
         },
         "39m5Wvn9ZqyhYmCYpsyHuGMt5YYw4Vmh1Z" : {
             "name": "BytePool",
-            "link": "https://bytepool.com/"
+            "link": "https://www.bytepool.com/"
         },
         "38u1srayb1oybVB43UWKBJsrwJbdHGtPx2": {
             "name" : "SpiderPool",
