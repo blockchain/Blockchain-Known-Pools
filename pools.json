@@ -471,6 +471,10 @@
         "/NovaBlock/": {
             "name": "NovaBlock",
             "link": "https://novablock.com"
+        },
+        "MiningCity":{
+            "name":"MiningCity",
+            "link":"https://www.miningcity.com/"
         }
     },
     "payout_addresses" : {
@@ -857,6 +861,10 @@
         "3KJrsjfg1dD6CrsTeHdHVH3KqMpvL2XWQn" : {
             "name": "Poolin",
             "link": "https://www.poolin.com/"
+        },
+        "11wC5KcbgrWRBb43cwADdVrxgyF8mndVC":{
+            "name":"MiningCity",
+            "link":"https://www.miningcity.com/"
         }
     }
 }
