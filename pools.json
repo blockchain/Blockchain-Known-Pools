@@ -1025,6 +1025,10 @@
         "11wC5KcbgrWRBb43cwADdVrxgyF8mndVC": {
             "name": "MiningCity",
             "link": "https://www.miningcity.com/"
+        },
+        "/Minerium.com/" : {
+            "name" : "Minerium",
+            "link" : "https://www.minerium.com/"
         }
     }
 }
