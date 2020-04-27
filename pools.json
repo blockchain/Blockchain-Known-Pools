@@ -5,7 +5,7 @@
             "link": "https://mining.luxor.tech"
         },
         "/1THash&58COIN/": {
-            "name": "1THash&58COIN",
+            "name": "58COIN&1THash",
             "link": "https://www.1thash.top"
         },
         "BITFARMS": {
@@ -471,6 +471,10 @@
         "/Binance/": {
             "name" : "Binance Pool",
             "link" : "https://pool.binancezh.com/"
+        },
+        "/Minerium.com/" : {
+            "name" : "Minerium",
+            "link" : "https://www.minerium.com/"
         }
     },
     "payout_addresses" : {
