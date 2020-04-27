@@ -468,7 +468,7 @@
             "name" : "MiningCity",
             "link" : "https://www.miningcity.com/"
         },
-        "Binance Pool": {
+        "/Binance/": {
             "name" : "Binance Pool",
             "link" : "https://pool.binancezh.com/"
         }
