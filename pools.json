@@ -464,9 +464,17 @@
             "name" : "NovaBlock",
             "link" : "https://novablock.com"
         },
-        "MiningCity":{
+        "MiningCity": {
             "name" : "MiningCity",
             "link" : "https://www.miningcity.com/"
+        },
+        "/Binance/": {
+            "name" : "Binance Pool",
+            "link" : "https://pool.binancezh.com/"
+        },
+        "/Minerium.com/" : {
+            "name" : "Minerium",
+            "link" : "https://www.minerium.com/"
         }
     },
     "payout_addresses" : {
@@ -1026,9 +1034,9 @@
             "name": "MiningCity",
             "link": "https://www.miningcity.com/"
         },
-        "/Minerium.com/" : {
-            "name" : "Minerium",
-            "link" : "https://www.minerium.com/"
+        "1DSh7vX6ed2cgTeKPwufV5i4hSi4pp373h": {
+            "name" : "Binance Pool",
+            "link" : "https://pool.binancezh.com/"
         }
     }
 }
