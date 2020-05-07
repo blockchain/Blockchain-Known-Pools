@@ -475,6 +475,10 @@
         "/Minerium.com/" : {
             "name" : "Minerium",
             "link" : "https://www.minerium.com/"
+        },
+         "/Buffett/": {
+            "name" : "Buffett",
+            "link" : ""
         }
     },
     "payout_addresses" : {
@@ -1041,6 +1045,10 @@
          "16moWjUJVRnDQKqhoCdcszfJg9wzBdoTHw": {
             "name" : "Binance Pool",
             "link" : "https://pool.binancezh.com/"
+        },
+         "34Jpa4Eu3ApoPVUKNTN2WeuXVVq1jzxgPi": {
+            "name" : "Buffett",
+            "link" : ""
         }
     }
 }
