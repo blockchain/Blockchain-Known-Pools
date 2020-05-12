@@ -476,9 +476,13 @@
             "name" : "Minerium",
             "link" : "https://www.minerium.com/"
         },
-         "/Buffett/": {
-            "name" : "Buffett",
+        "/Buffett/": {
+            "name" : "Lubian.com",
             "link" : ""
+        },
+        "/lubian.com/" : {
+            "name" : "Lubian.com",
+            "link" : "http://www.lubian.com/"
         }
     },
     "payout_addresses" : {
@@ -1046,9 +1050,9 @@
             "name" : "Binance Pool",
             "link" : "https://pool.binancezh.com/"
         },
-         "34Jpa4Eu3ApoPVUKNTN2WeuXVVq1jzxgPi": {
-            "name" : "Buffett",
-            "link" : ""
+        "34Jpa4Eu3ApoPVUKNTN2WeuXVVq1jzxgPi": {
+            "name" : "Lubian.com",
+            "link" : "http://www.lubian.com/"
         }
     }
 }
