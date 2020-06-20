@@ -5,7 +5,7 @@ Bitcoin Mining Known Pools Tracking Tags for https://blockchain.info/pools & htt
 
 Contributions welcome.
 
-Guidelines
+Guidelines.
 ======================
 - Provide only 1 mining pool by PR
 - The website provided must be available 
