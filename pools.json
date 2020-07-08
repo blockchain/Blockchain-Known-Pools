@@ -483,7 +483,12 @@
         "/lubian.com/" : {
             "name" : "Lubian.com",
             "link" : "http://www.lubian.com/"
+        },
+        "/hash.okkong.com/" : {
+            "name" : "okkong",
+            "link" : "https://hash.okkong.com"
         }
+        
     },
     "payout_addresses" : {
         "3Bmb9Jig8A5kHdDSxvDZ6eryj3AXd3swuJ": {
@@ -1038,7 +1043,7 @@
             "name": "Sigmapool.com",
             "link": "https://sigmapool.com/"
         },
-        "125K2xfiBdae42gSKiCGwi85Frpy1vHmGj": {
+        "16JHXJ7M2MubWNX9grnqbjUqJ5PHwcCWw2": {
             "name": "okkong",
             "link": "https://hash.okkong.com/"
         },
