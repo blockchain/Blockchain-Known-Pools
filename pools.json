@@ -324,6 +324,10 @@
             "name": "Bixin",
             "link": "https://haopool.com/"
         },
+        "/ViaBTC/TATMAS Pool/" : {
+            "name" : "TATMAS Pool",
+            "link" : "https://tmsminer.com/"
+        },
         "viabtc.com deploy" : {
             "name": "ViaBTC",
             "link": "https://viabtc.com"
@@ -487,10 +491,6 @@
         "/hash.okkong.com/" : {
             "name" : "OKKONG",
             "link" : "https://hash.okkong.com"
-        },
-        "/ViaBTC/TATMAS Pool/" : {
-            "name" : "TATMAS Pool",
-            "link" : "https://tmsminer.com/"
         }
     },
     "payout_addresses" : {
