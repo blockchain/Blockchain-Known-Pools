@@ -487,8 +487,11 @@
         "/hash.okkong.com/" : {
             "name" : "OKKONG",
             "link" : "https://hash.okkong.com"
+        },
+        "/ViaBTC/TATMAS Pool/" : {
+            "name" : "TATMAS Pool",
+            "link" : "https://tmsminer.com/"
         }
-        
     },
     "payout_addresses" : {
         "3Bmb9Jig8A5kHdDSxvDZ6eryj3AXd3swuJ": {
