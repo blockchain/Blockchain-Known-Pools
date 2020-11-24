@@ -8,6 +8,10 @@
             "name": "58COIN&1THash",
             "link": "https://www.1thash.top"
         },
+        "/BTC.COM/" : {
+            "name" : "BTC.com",
+            "link" : "https://pool.btc.com"
+        },
         "BITFARMS": {
             "name": "Bitfarms",
             "link": "https://www.bitarms.io/"
