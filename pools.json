@@ -499,6 +499,10 @@
         "/TMSPOOL/" : {
             "name" : "TMSPool",
             "link" : "https://btc.tmspool.top"
+        },
+        "/one_more_mcd/" : {
+            "name" : "EMCDPool",
+            "link" : "https://pool.emcd.io"
         }
     },
     "payout_addresses" : {
