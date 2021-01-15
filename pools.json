@@ -503,6 +503,10 @@
         "/one_more_mcd/" : {
             "name" : "EMCDPool",
             "link" : "https://pool.emcd.io"
+        },
+        "/foundry/" : {
+            "name" : "Foundry",
+            "link" : "https://foundrydigital.com/"
         }
     },
     "payout_addresses" : {
