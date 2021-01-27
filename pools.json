@@ -478,7 +478,7 @@
         },
         "/Binance/": {
             "name" : "Binance Pool",
-            "link" : "https://pool.binancezh.com/"
+            "link" : "https://pool.binance.com/"
         },
         "/Minerium.com/" : {
             "name" : "Minerium",
@@ -499,6 +499,22 @@
         "/2cDw/" : {
             "name" : "2cDw",
             "link" : ""
+        },
+        "/TMSPOOL/" : {
+            "name" : "TMSPool",
+            "link" : "https://btc.tmspool.top"
+        },
+        "/one_more_mcd/" : {
+            "name" : "EMCDPool",
+            "link" : "https://pool.emcd.io"
+        },
+        "/Foundry USA Pool #dropgold/" : {
+            "name" : "Foundry USA",
+            "link" : "https://foundrydigital.com/"
+        },
+        "/SBICrypto.com Pool/" : {
+            "name" : "SBI Crypto",
+            "link" : "https://sbicrypto.com"
         }
     },
     "payout_addresses" : {
@@ -1064,15 +1080,15 @@
         },
         "1DSh7vX6ed2cgTeKPwufV5i4hSi4pp373h": {
             "name" : "Binance Pool",
-            "link" : "https://pool.binancezh.com/"
+            "link" : "https://pool.binance.com/"
         },
         "16moWjUJVRnDQKqhoCdcszfJg9wzBdoTHw": {
             "name" : "Binance Pool",
-            "link" : "https://pool.binancezh.com/"
+            "link" : "https://pool.binance.com/"
         },
         "bc1qx9t2l3pyny2spqpqlye8svce70nppwtaxwdrp4": {
             "name" : "Binance Pool",
-            "link" : "https://pool.binancezh.com/"
+            "link" : "https://pool.binance.com/"
         },
         "34Jpa4Eu3ApoPVUKNTN2WeuXVVq1jzxgPi": {
             "name" : "Lubian.com",
