@@ -496,6 +496,10 @@
             "name" : "OKKONG",
             "link" : "https://hash.okkong.com"
         },
+        "/2cDw/" : {
+            "name" : "2cDw",
+            "link" : ""
+        },
         "/TMSPOOL/" : {
             "name" : "TMSPool",
             "link" : "https://btc.tmspool.top"
@@ -1089,6 +1093,10 @@
         "34Jpa4Eu3ApoPVUKNTN2WeuXVVq1jzxgPi": {
             "name" : "Lubian.com",
             "link" : "http://www.lubian.com/"
+        },
+        "1FFxkVijzvUPUeHgkFjBk2Qw8j3wQY2cDw" : {
+            "name" : "2cDw",
+            "link" : ""
         }
     }
 }
