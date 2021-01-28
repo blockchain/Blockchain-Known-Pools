@@ -515,7 +515,15 @@
         "/SBICrypto.com Pool/" : {
             "name" : "SBI Crypto",
             "link" : "https://sbicrypto.com"
-        }
+        },
+        "SBI Crypto": {
+            "name": "SBI Crypto",
+            "link": "https://www.sbicrypto.com"
+        },
+        "SBICrypto": {
+            "name": "SBI Crypto",
+            "link": "https://www.sbicrypto.com"
+       	},
     },
     "payout_addresses" : {
         "3Bmb9Jig8A5kHdDSxvDZ6eryj3AXd3swuJ": {
