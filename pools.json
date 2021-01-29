@@ -12,6 +12,10 @@
             "name" : "BTC.com",
             "link" : "https://pool.btc.com"
         },
+        "/BTC.com/" : {
+            "name" : "BTC.com",
+            "link" : "https://pool.btc.com"
+        },
         "BITFARMS": {
             "name": "Bitfarms",
             "link": "https://www.bitarms.io/"
@@ -523,7 +527,7 @@
         "SBICrypto": {
             "name": "SBI Crypto",
             "link": "https://www.sbicrypto.com"
-       	},
+       	}
     },
     "payout_addresses" : {
         "3Bmb9Jig8A5kHdDSxvDZ6eryj3AXd3swuJ": {
