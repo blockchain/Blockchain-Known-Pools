@@ -504,10 +504,6 @@
             "name" : "OKKONG",
             "link" : "https://hash.okkong.com"
         },
-        "/2cDw/" : {
-            "name" : "2cDw",
-            "link" : ""
-        },
         "/TMSPOOL/" : {
             "name" : "TMSPool",
             "link" : "https://btc.tmspool.top"
@@ -517,6 +513,10 @@
             "link" : "https://pool.emcd.io"
         },
         "/Foundry USA Pool #dropgold/" : {
+            "name" : "Foundry USA",
+            "link" : "https://foundrydigital.com/"
+        },
+         "/2cDw/" : {
             "name" : "Foundry USA",
             "link" : "https://foundrydigital.com/"
         },
