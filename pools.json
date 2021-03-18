@@ -531,7 +531,11 @@
         "SBICrypto": {
             "name": "SBI Crypto",
             "link": "https://www.sbicrypto.com"
-       	}
+       	},
+        "/ArkPool/": {
+            "name": "ArkPool",
+            "link": "https://www.arkpool.com/"
+        }
     },
     "payout_addresses" : {
         "3Bmb9Jig8A5kHdDSxvDZ6eryj3AXd3swuJ": {
@@ -1125,6 +1129,10 @@
         "1FFxkVijzvUPUeHgkFjBk2Qw8j3wQY2cDw" : {
             "name" : "Foundry USA",
             "link" : "https://foundrydigital.com/"
+        },
+        "1QEiAhdHdMhBgVbDM7zUXWGkNhgEEJ6uLd": {
+            "name": "ArkPool",
+            "link": "https://www.arkpool.com/"
         }
     }
 }
