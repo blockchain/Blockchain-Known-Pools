@@ -539,6 +539,10 @@
         "/PureBTC.COM/": {
             "name": "PureBTC.COM",
             "link": "https://purebtc.com"
+        },
+        "MARA Pool": {
+            "name": "MARA Pool",
+            "link": "https://marathondh.com"
         }
     },
     "payout_addresses" : {
@@ -1173,6 +1177,10 @@
         "3CLigLYNkrtoNgNcUwTaKoUSHCwr9W851W": {
             "name": "Rawpool",
             "link": "https://www.rawpool.com"
+        },
+        "3LC8dDKyBsrWPfzhXyt7aAyjXxGYkfDdHu": {
+            "name": "MARA Pool",
+            "link": "https://marathondh.com"
         }
     }
 }
