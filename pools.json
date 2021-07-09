@@ -1173,6 +1173,10 @@
         "3CLigLYNkrtoNgNcUwTaKoUSHCwr9W851W": {
             "name": "Rawpool",
             "link": "https://www.rawpool.com"
+        },
+        "bc1qf274x7penhcd8hsv3jcmwa5xxzjl2a6pa9pxwm": {
+            "name" : "F2Pool",
+            "link" : "https://www.f2pool.com/"
         }
     }
 }
