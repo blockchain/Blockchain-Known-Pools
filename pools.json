@@ -504,8 +504,8 @@
             "name" : "OKKONG",
             "link" : "https://hash.okkong.com"
         },
-        "/TMSPOOL/" : {
-            "name" : "TMSPool",
+        "/AAOPOOL/" : {
+            "name" : "AAO Pool",
             "link" : "https://btc.tmspool.top"
         },
         "/one_more_mcd/" : {
@@ -637,6 +637,14 @@
         "1MvYASoHjqynMaMnP7SBmenyEWiLsTqoU6" : {
             "name" : "Huobi.pool",
             "link" : "https://www.hpt.com/"
+        },
+        "1BDbsWi3Mrcjp1wdop3PWFNCNZtu4R7Hjy" : {
+            "name" : "EMCDPool",
+            "link" : "https://pool.emcd.io"
+        },
+        "12QVFmJH2b4455YUHkMpEnWLeRY3eJ4Jb5" : {
+            "name" : "AAO Pool",
+            "link" : "https://btc.tmspool.top "
         },
         "1ALA5v7h49QT7WYLcRsxcXqXUqEqaWmkvw" : {
             "name" : "CloudHashing",
