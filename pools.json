@@ -542,7 +542,7 @@
         },
         "MARA Pool": {
             "name": "MARA Pool",
-            "link": "https://marathondh.com"
+            "link": "https://marapool.com"
         }
     },
     "payout_addresses" : {
@@ -1194,9 +1194,9 @@
             "name" : "F2Pool",
             "link" : "https://www.f2pool.com/"
         },
-        "3LC8dDKyBsrWPfzhXyt7aAyjXxGYkfDdHu": {
+        "3D72db1KMCnj7FL7MBsmxTw81z2bVu4UN5": {
             "name": "MARA Pool",
-            "link": "https://marathondh.com"
+            "link": "https://marapool.com"
         }
     }
 }
