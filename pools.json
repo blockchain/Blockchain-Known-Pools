@@ -543,9 +543,17 @@
         "MARA Pool": {
             "name": "MARA Pool",
             "link": "https://marapool.com"
+        },
+        "KuCoinPool": {
+            "name": "KuCoinPool",
+            "link": "https://www.kucoin.com/mining-pool/"
         }
     },
     "payout_addresses" : {
+        "1ArTPjj6pV3aNRhLPjJVPYoxB98VLBzUmb": {
+            "name" : "KuCoinPool",
+            "link" : "https://www.kucoin.com/mining-pool/"
+         },
         "3Bmb9Jig8A5kHdDSxvDZ6eryj3AXd3swuJ": {
             "name" : "NovaBlock",
             "link" : "https://novablock.com"
