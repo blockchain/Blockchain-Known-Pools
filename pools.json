@@ -1,5 +1,13 @@
 {
     "coinbase_tags" : {
+        "Luxor": {
+            "name": "Luxor",
+            "link": "https://mining.luxor.tech"
+        },
+        "1MkCDCzHpBsYQivp8MxjY5AkTGG1f2baoe": {
+            "name": "Luxor",
+            "link": "https://mining.luxor.tech"
+        },
         "/LUXOR/": {
             "name": "Luxor",
             "link": "https://mining.luxor.tech"
