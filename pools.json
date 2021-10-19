@@ -550,6 +550,10 @@
         }
     },
     "payout_addresses" : {
+        "1MkCDCzHpBsYQivp8MxjY5AkTGG1f2baoe": {
+            "name": "Luxor",
+            "link": "https://mining.luxor.tech"
+        },
         "1ArTPjj6pV3aNRhLPjJVPYoxB98VLBzUmb": {
             "name" : "KuCoinPool",
             "link" : "https://www.kucoin.com/mining-pool/"
