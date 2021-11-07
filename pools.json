@@ -488,10 +488,14 @@
             "name" : "Binance Pool",
             "link" : "https://pool.binance.com/"
         },
-        "/Minerium.com/" : {
+        "/Mined in the USA by: /Minerium.com/" : {
             "name" : "Minerium",
             "link" : "https://www.minerium.com/"
         },
+        "/Minerium.com/" : {
+            "name" : "Minerium",
+            "link" : "https://www.minerium.com/"
+        },        
         "/Buffett/": {
             "name" : "Lubian.com",
             "link" : ""
