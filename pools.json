@@ -487,7 +487,12 @@
         "/PureBTC.COM/" : {
             "name": "PureBTC.COM",
             "link": "https://purebtc.com"
+        },
+        "Entrustus" : {
+            "name": "Entrust Charity Pool",
+            "link": "pool.entustus.org"
         }
+
     },
     "payout_addresses" : {
         "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC" : {
