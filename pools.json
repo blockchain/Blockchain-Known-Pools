@@ -544,13 +544,17 @@
             "name": "PureBTC.COM",
             "link": "https://purebtc.com"
         },
-        "MARA Pool": {
+        "MARA Pool": {,
             "name": "MARA Pool",
             "link": "https://marapool.com"
         },
         "KuCoinPool": {
             "name": "KuCoinPool",
             "link": "https://www.kucoin.com/mining-pool/"
+        },
+        "Entrustus" : {
+            "name": "Entrust Charity Pool",
+            "link": "pool.entustus.org"
         }
     },
     "payout_addresses" : {
