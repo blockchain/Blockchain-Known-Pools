@@ -1,6 +1,5 @@
-Blockchain Pools
-======================
+# Bitcoin Mining Pools
 
-Bitcoin Mining Known Pools Tracking Tags for https://btc.com/stats/pool
+Coinbase Tags used on https://mempool.space/mining/pools
 
 Contributions welcome.
