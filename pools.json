@@ -1,5 +1,17 @@
 {
     "coinbase_tags" : {
+        "/BlockfillsPool/" : {
+            "name": "BlockFills",
+            "link": "https://www.blockfills.com/mining/"
+        },
+        "/ultimus/" : {
+            "name": "ULTIMUSPOOL",
+            "link": "https://www.ultimuspool.com/"
+        },
+        "terrapool.io": {
+            "name": "Terra Pool",
+            "link": "https://terrapool.io/"
+        },
         "/LUXOR/": {
             "name": "Luxor",
             "link": "https://mining.luxor.tech"
@@ -558,6 +570,18 @@
         }
     },
     "payout_addresses" : {
+        "1PzVut5X6Nx7Mv4JHHKPtVM9Jr9LJ4Rbry": {
+            "name": "BlockFills",
+            "link": "https://www.blockfills.com/mining/"
+        },
+        "1EMVSMe1VJUuqv7D7SFzctnVXk4KdjXATi" : {
+            "name": "ULTIMUSPOOL",
+            "link": "https://www.ultimuspool.com/"
+        },
+        "3Qqp7LwxmSjPwRaKkDToysJsM3xA4ThqFk": {
+            "name": "Terra Pool",
+            "link": "https://terrapool.io/"
+        },
         "1MkCDCzHpBsYQivp8MxjY5AkTGG1f2baoe": {
             "name": "Luxor",
             "link": "https://mining.luxor.tech"
