@@ -552,6 +552,10 @@
             "name": "KuCoinPool",
             "link": "https://www.kucoin.com/mining-pool/"
         },
+        "/ULTIMUS/": {
+            "name": "ULTIMUS POOL",
+            "link": "https://www.ultimuspool.com/"
+        },
         "Entrustus" : {
             "name": "Entrust Charity Pool",
             "link": "pool.entustus.org"
@@ -1233,6 +1237,10 @@
         "bc1qf274x7penhcd8hsv3jcmwa5xxzjl2a6pa9pxwm": {
             "name" : "F2Pool",
             "link" : "https://www.f2pool.com/"
+        },
+        "1EMVSMe1VJUuqv7D7SFzctnVXk4KdjXATi": {
+            "name" : "ULTIMUS POOL",
+            "link" : "https://www.ultimuspool.com/"
         },
         "1A32KFEX7JNPmU1PVjrtiXRrTQcesT3Nf1": {
             "name": "MARA Pool",
