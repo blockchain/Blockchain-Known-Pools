@@ -559,6 +559,10 @@
         "Entrustus" : {
             "name": "Entrust Charity Pool",
             "link": "pool.entustus.org"
+        },
+        "okminer.com/euz" : {
+            "name": "OKMINER",
+            "link": "https://okminer.com/"
         }
     },
     "payout_addresses" : {
@@ -1253,6 +1257,10 @@
         "1A32KFEX7JNPmU1PVjrtiXRrTQcesT3Nf1": {
             "name": "MARA Pool",
             "link": "https://marapool.com"
+        },
+        "15xcAZ2HfaSwYbCV6GGbasBSAekBRRC5Q2" : {
+            "name": "OKMINER",
+            "link": "https://okminer.com/"
         }
     }
 }
