@@ -1,5 +1,9 @@
 {
     "coinbase_tags" : {
+        "terrapool.io": {
+        "name": "Terra Pool",
+        "link": "https://terrapool.io"
+        },
         "/LUXOR/": {
             "name": "Luxor",
             "link": "https://mining.luxor.tech"
@@ -1258,9 +1262,17 @@
             "name": "MARA Pool",
             "link": "https://marapool.com"
         },
-        "15xcAZ2HfaSwYbCV6GGbasBSAekBRRC5Q2" : {
+        "15xcAZ2HfaSwYbCV6GGbasBSAekBRRC5Q2": {
             "name": "OKMINER",
             "link": "https://okminer.com/"
+        },
+        "3Qqp7LwxmSjPwRaKkDToysJsM3xA4ThqFk": {
+            "name": "Terra Pool",
+            "link": "https://terrapool.io"
+        },
+        "32P5KVSbZYAkVmSHxDd2oBXaSk372rbV7L": {
+            "name": "Terra Pool",
+            "link": "https://terrapool.io"
         }
     }
 }
