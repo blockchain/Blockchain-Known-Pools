@@ -1,8 +1,8 @@
 {
     "coinbase_tags" : {
-        "terrapool.io": {
-        "name": "Terra Pool",
-        "link": "https://terrapool.io"
+        "/terrapool.io/": {
+            "name": "Terra Pool",
+            "link": "https://terrapool.io"
         },
         "/LUXOR/": {
             "name": "Luxor",
