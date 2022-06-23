@@ -108,7 +108,11 @@
             "name" : "OzCoin",
             "link" : "http://ozcoin.net/"
         },
-        "EMC" : {
+        "EMC:" : {
+            "name" : "EclipseMC",
+            "link" : "https://eclipsemc.com/"
+        },
+        "EMC " : {
             "name" : "EclipseMC",
             "link" : "https://eclipsemc.com/"
         },
@@ -659,6 +663,10 @@
             "link" : "http://bitminter.com/"
         },
         "15xiShqUqerfjFdyfgBH1K7Gwp6cbYmsTW" : {
+            "name" : "EclipseMC",
+            "link" : "https://eclipsemc.com/"
+        },
+        "18M9o2mXNjNR96yKe7eyY6pfP6Nx4Nso3d" : {
             "name" : "EclipseMC",
             "link" : "https://eclipsemc.com/"
         },
