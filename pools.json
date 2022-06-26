@@ -34,7 +34,7 @@
         },
         "BITFARMS": {
             "name": "Bitfarms",
-            "link": "https://www.bitarms.io/"
+            "link": "https://www.bitfarms.io/"
         },
         "/Huobi/": {
             "name": "Huobi.pool",
@@ -575,6 +575,10 @@
         "Entrustus" : {
             "name": "Entrust Charity Pool",
             "link": "pool.entustus.org"
+        },
+        "okminer.com/euz": {
+            "name" : "OKMINER",
+            "link" : "https://okminer.com/"
         }
     },
     "payout_addresses" : {
@@ -586,9 +590,17 @@
             "name": "ULTIMUSPOOL",
             "link": "https://www.ultimuspool.com/"
         },
+        "3C9sAKXrBVpJVe3b738yik4LPHpPmceBgd": {
+            "name" : "ULTIMUS POOL",
+            "link" : "https://www.ultimuspool.com/"
+        },
         "3Qqp7LwxmSjPwRaKkDToysJsM3xA4ThqFk": {
             "name": "Terra Pool",
             "link": "https://terrapool.io/"
+        },
+        "32P5KVSbZYAkVmSHxDd2oBXaSk372rbV7L": {
+            "name" : "Terra Pool",
+            "link" : "https://terrapool.io"
         },
         "1MkCDCzHpBsYQivp8MxjY5AkTGG1f2baoe": {
             "name": "Luxor",
@@ -1195,8 +1207,16 @@
             "link": "https://hash.okkong.com/"
         },
         "11wC5KcbgrWRBb43cwADdVrxgyF8mndVC": {
-            "name": "MiningCity",
-            "link": "https://www.miningcity.com/"
+            "name" : "MiningCity",
+            "link" : "https://www.miningcity.com/"
+        },
+        "122pN8zvqTxJaA8fRY1PDBu4QYodqE5m2X": {
+            "name" : "Binance Pool",
+            "link" : "https://pool.binance.com/"
+        },
+        "3L8Ck6bm3sve1vJGKo6Ht2k167YKSKi8TZ": {
+            "name" : "Binance Pool",
+            "link" : "https://pool.binance.com/"
         },
         "1DSh7vX6ed2cgTeKPwufV5i4hSi4pp373h": {
             "name" : "Binance Pool",
@@ -1269,6 +1289,10 @@
         "1A32KFEX7JNPmU1PVjrtiXRrTQcesT3Nf1": {
             "name": "MARA Pool",
             "link": "https://marapool.com"
+        },
+        "15xcAZ2HfaSwYbCV6GGbasBSAekBRRC5Q2": {
+            "name" : "OKMINER",
+            "link" : "https://okminer.com/"
         }
     },
     "slugs": {
@@ -1407,6 +1431,7 @@
         "EkanemBTC": "ekanembtc",
         "CANOE": "canoe",
         "tiger": "tiger",
-        "1M1X": "1m1x"
+        "1M1X": "1m1x",
+        "OKMiner": "okminer"
     }
 }
