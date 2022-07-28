@@ -567,6 +567,14 @@
         "okminer.com/euz" : {
             "name": "OKMINER",
             "link": "https://okminer.com/"
+        },
+        "btccom" : {
+            "name" : "BTC.com",
+            "link" : "https://pool.btc.com"
+        },
+        "btccomf" : {
+            "name" : "BTC.com",
+            "link" : "https://pool.btc.com"
         }
     },
     "payout_addresses" : {
@@ -1273,6 +1281,10 @@
         "32P5KVSbZYAkVmSHxDd2oBXaSk372rbV7L": {
             "name": "Terra Pool",
             "link": "https://terrapool.io"
+        },
+        "36cWgjEtxQSFgbHTJDw5AB96ZX7fJk1URd" : {
+            "name" : "BTC.com",
+            "link" : "https://pool.btc.com"
         }
     }
 }
