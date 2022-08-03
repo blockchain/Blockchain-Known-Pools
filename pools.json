@@ -587,6 +587,10 @@
         "okminer.com/euz": {
             "name" : "OKMINER",
             "link" : "https://okminer.com/"
+        },
+        "/Titan.io/": {
+            "name" : "Titan",
+            "link" : "https://titan.io/"
         }
     },
     "payout_addresses" : {
@@ -1301,6 +1305,10 @@
         "15xcAZ2HfaSwYbCV6GGbasBSAekBRRC5Q2": {
             "name" : "OKMINER",
             "link" : "https://okminer.com/"
+        },
+         "14hLEtxozmmih6Gg5xrGZLfx51bEMj21NW": {
+            "name" : "Titan",
+            "link" : "https://titan.io/"
         }
     },
     "slugs": {
