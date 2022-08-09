@@ -588,7 +588,7 @@
             "name" : "OKMINER",
             "link" : "https://okminer.com/"
         },
-        "/Titan.io/": {
+        "Titan.io": {
             "name" : "Titan",
             "link" : "https://titan.io/"
         }
