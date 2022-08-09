@@ -32,7 +32,7 @@
             "name" : "BTC.com",
             "link" : "https://pool.btc.com"
         },
-        "/btccom/" : {
+        "btccom" : {
             "name" : "BTC.com",
             "link" : "https://pool.btc.com"
         },
