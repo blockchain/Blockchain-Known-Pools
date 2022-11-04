@@ -877,6 +877,10 @@
         "11wC5KcbgrWRBb43cwADdVrxgyF8mndVC":{
             "name":"MiningCity",
             "link":"https://www.miningcity.com/"
+        },
+        "/pegapool/": {
+            "name" : "PEGA Pool",
+            "link" : "https://pega-pool.com/"
         }
     }
 }
