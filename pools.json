@@ -61104,6 +61104,14 @@
         "1MejoVXRvsmwyDpTpkw3VJ82NsjjT8SyEw": {
             "name": "Braiins Pool",
             "website": "https://braiins.com/"
+        },
+        "bc1q8e0ex4027jcsv6cze8hqs83rar9tuyd8dnylwz": {
+            "name": "NiceHash",
+            "link": "https://www.nicehash.com/"
+        },
+        "bc1q4s6amzpj5vc69p4jpetrdk54fa6y2qku0eyt5j": {
+            "name": "NiceHash",
+            "link": "https://www.nicehash.com/"
         }
     }
 }
