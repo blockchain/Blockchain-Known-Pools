@@ -487,6 +487,10 @@
         "/PureBTC.COM/": {
             "name": "PureBTC.COM",
             "link": "https://purebtc.com"
+        },
+        "/mpool/": {
+            "name": "MPool",
+            "link": "https://mpool.live"
         }
     },
     "payout_addresses": {
