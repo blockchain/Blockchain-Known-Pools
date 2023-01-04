@@ -1004,7 +1004,8 @@
             "name": "KnCMiner"
         },
         "1ArTPjj6pV3aNRhLPjJVPYoxB98VLBzUmb": {
-            "name": "Kucoin"
+            "name": "Kucoin",
+            "website": "https://www.kucoin.com/mining-pool"
         },
         "3279PyBGjZTnu1GNSXamReTj98kiYgZdtW": {
             "name": "Lubian"
@@ -61116,6 +61117,10 @@
         "bc1qxhmdufsvnuaaaer4ynz88fspdsxq2h9e9cetdj": {
             "name": "Foundry USA",
             "website": "https://foundrydigital.com/"
+        },
+        "32AiiExkMB4ta2mCHTrbEESNnUJpZv8X3J": {
+            "name": "Kucoin",
+            "website": "https://www.kucoin.com/mining-pool"
         }
     }
 }
