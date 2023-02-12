@@ -4,6 +4,10 @@
             "name": "Luxor",
             "link": "https://mining.luxor.tech"
         },
+        "/terrapool.io/": {
+            "name": "Terra Pool",
+            "link": "https://terrapool.io"
+        },
         "Rawpool.com": {
             "name": "Rawpool.com",
             "link": "https://www.rawpool.com/"
@@ -1055,7 +1059,16 @@
             "name": "Stratum Pool"
         },
         "3Qqp7LwxmSjPwRaKkDToysJsM3xA4ThqFk": {
-            "name": "Terra Pool"
+            "name": "Terra Pool",
+            "link": "https://terrapool.io"
+        },
+        "32P5KVSbZYAkVmSHxDd2oBXaSk372rbV7L": {
+            "name": "Terra Pool",
+            "link": "https://terrapool.io"
+        },
+        "bc1q39dled8an7enuxtmjql3pk7ny8kzvsxhd924sl": {
+            "name": "Terra Pool",
+            "link": "https://terrapool.io"
         },
         "14hLEtxozmmih6Gg5xrGZLfx51bEMj21NW": {
             "name": "Titan"
