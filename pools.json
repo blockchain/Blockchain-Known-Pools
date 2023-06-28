@@ -4,7 +4,7 @@
             "name": "Terra Pool",
             "link": "https://terrapool.io"
         },
-        "/Luxor/": {
+        "Luxor": {
             "name": "Luxor",
             "link": "https://mining.luxor.tech"
         },
@@ -587,6 +587,10 @@
             "link": "https://mining.luxor.tech"
         },
         "39bitUyBcUu3y3hRTtYprKbTp712t4ZWqK": {
+            "name": "Luxor",
+            "link": "https://mining.luxor.tech"
+        },
+        "1Mp82mJt6d8XzX8bN2GAkpDqBukiwLuKrA": {
             "name": "Luxor",
             "link": "https://mining.luxor.tech"
         },
