@@ -492,7 +492,7 @@
             "name" : "Binance Pool",
             "link" : "https://pool.binance.com/"
         },
-        "/binance/": {
+        "binance": {
             "name" : "Binance Pool",
             "link" : "https://pool.binance.com/"
         },
@@ -1231,6 +1231,10 @@
             "link" : "https://pool.binance.com/"
         },
         "3L8Ck6bm3sve1vJGKo6Ht2k167YKSKi8TZ": {
+            "name" : "Binance Pool",
+            "link" : "https://pool.binance.com/"
+        },
+        "bc1qzes26t5h05zpaan9rjcu8zhdvyfedu6927r9jv":{
             "name" : "Binance Pool",
             "link" : "https://pool.binance.com/"
         },
