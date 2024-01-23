@@ -1,5 +1,9 @@
 {
     "coinbase_tags": {
+        "Powered by Luxor Tech": {
+            "name": "Luxor",
+            "link": "https://mining.luxor.tech"
+        },
         "/LUXOR/": {
             "name": "Luxor",
             "link": "https://mining.luxor.tech"
@@ -1013,6 +1017,10 @@
             "name": "Lubian"
         },
         "1MkCDCzHpBsYQivp8MxjY5AkTGG1f2baoe": {
+            "name": "Luxor",
+            "website": "https://mining.luxor.tech/"
+        },
+        "32BfKjhByDSxx3BM5vUkQ3NQq9csZR6nt6": {
             "name": "Luxor",
             "website": "https://mining.luxor.tech/"
         },
