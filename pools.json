@@ -487,6 +487,10 @@
         "/PureBTC.COM/": {
             "name": "PureBTC.COM",
             "link": "https://purebtc.com"
+        },
+        "/SpiderPool/": {
+            "name": "SpiderPool",
+            "link": "https://www.spiderpool.com/"
         }
     },
     "payout_addresses": {
@@ -61133,6 +61137,10 @@
         },
         "bc1qrpp7g75sx3ejclvsfdw2uahzchtyu7vumkuadu": {
           "name": "SBI Crypto"
+        },
+        "1BM1sAcrfV6d4zPKytzziu4McLQDsFC2Qc": {
+          "name": "SpiderPool",
+          "website": "https://www.spiderpool.com/"
         }
     }
 }
