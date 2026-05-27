@@ -487,6 +487,10 @@
         "/PureBTC.COM/": {
             "name": "PureBTC.COM",
             "link": "https://purebtc.com"
+        },
+        "/ownblock/": {
+            "name": "OwnBlock",
+            "link": "https://ownblock.io"
         }
     },
     "payout_addresses": {
